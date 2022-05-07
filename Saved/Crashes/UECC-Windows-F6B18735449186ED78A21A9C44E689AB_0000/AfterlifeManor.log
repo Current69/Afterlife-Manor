@@ -1,0 +1,1479 @@
+﻿Log file open, 05/07/22 04:32:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=28216)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: AfterlifeManor
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19505902"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.0-19505902+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/AfterlifeManor.uproject -EpicPortal -epicusername=Current69 -epicuserid=47cf735857704277ad1cb9f4e65ff660 -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 3700X 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="ca53961c4178b18f79edfc8359edc1b7"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.463452
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-F6B18735449186ED78A21A9C44E689AB
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19505902
+LogInit: Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Mar 25 2022 04:05:33
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=Current69 -epicuserid=47cf735857704277ad1cb9f4e65ff660 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/UE_5.0/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.05.07-11.32.50:659][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.05.07-11.32.50:659][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.05.07-11.32.50:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.05.07-11.32.50:660][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.05.07-11.32.50:670][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.05.07-11.32.50:670][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.05.07-11.32.50:670][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.05.07-11.32.50:670][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.05.07-11.32.50:670][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.05.07-11.32.50:670][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.05.07-11.32.50:670][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.05.07-11.32.50:670][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.05.07-11.32.50:670][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.05.07-11.32.50:670][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.05.07-11.32.50:670][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.05.07-11.32.50:685][  0]LogD3D12RHI: Aftermath initialized
+[2022.05.07-11.32.50:685][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.05.07-11.32.51:040][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1060 6GB (Max supported Feature Level 12_1, shader model 6.6)
+[2022.05.07-11.32.51:040][  0]LogD3D12RHI: Adapter has 6052MB of dedicated video memory, 0MB of dedicated system memory, and 16359MB of shared system memory, 2 output[s]
+[2022.05.07-11.32.51:149][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.05.07-11.32.51:149][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16359MB of shared system memory, 0 output[s]
+[2022.05.07-11.32.51:149][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.05.07-11.32.51:149][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.07-11.32.51:149][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.05.07-11.32.51:149][  0]LogHAL: Display: Platform has ~ 32 GB [34307809280 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.07-11.32.51:149][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.05.07-11.32.51:149][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.05.07-11.32.51:149][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.07-11.32.51:149][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.05.07-11.32.51:149][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/Config/WindowsEditor/Editor.ini]
+[2022.05.07-11.32.51:149][  0]LogInit: Computer: THEODOPOLIS
+[2022.05.07-11.32.51:149][  0]LogInit: User: bhome
+[2022.05.07-11.32.51:149][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.05.07-11.32.51:149][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.07-11.32.51:149][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2022.05.07-11.32.51:149][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.05.07-11.32.51:149][  0]LogMemory: Process Physical Memory: 281.60 MB used, 290.81 MB peak
+[2022.05.07-11.32.51:149][  0]LogMemory: Process Virtual Memory: 246.46 MB used, 246.46 MB peak
+[2022.05.07-11.32.51:149][  0]LogMemory: Physical Memory: 13214.47 MB used,  19504.00 MB free, 32718.48 MB total
+[2022.05.07-11.32.51:149][  0]LogMemory: Virtual Memory: 24776.73 MB used,  15304.39 MB free, 40081.11 MB total
+[2022.05.07-11.32.51:149][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.05.07-11.32.51:158][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.07-11.32.51:175][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.05.07-11.32.51:176][  0]LogInit: Using OS detected language (en-US).
+[2022.05.07-11.32.51:176][  0]LogInit: Using OS detected locale (en-US).
+[2022.05.07-11.32.51:181][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.05.07-11.32.51:318][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.07-11.32.51:374][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.05.07-11.32.51:375][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.05.07-11.32.51:375][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2022.05.07-11.32.51:375][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.05.07-11.32.51:467][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.07-11.32.51:467][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.07-11.32.51:563][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.05.07-11.32.51:567][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.05.07-11.32.51:567][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.05.07-11.32.51:716][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.05.07-11.32.51:716][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.05.07-11.32.51:716][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.05.07-11.32.51:716][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.05.07-11.32.51:716][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.05.07-11.32.51:716][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.05.07-11.32.51:716][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.05.07-11.32.51:716][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.05.07-11.32.51:716][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.05.07-11.32.51:716][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.05.07-11.32.51:716][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.05.07-11.32.51:716][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.05.07-11.32.51:716][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.05.07-11.32.51:716][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.05.07-11.32.51:778][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.05.07-11.32.51:785][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.05.07-11.32.51:801][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.05.07-11.32.51:822][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.05.07-11.32.51:822][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.05.07-11.32.51:874][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2022.05.07-11.32.51:874][  0]LogD3D12RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.07-11.32.51:874][  0]LogWindows: EnumDisplayDevices:
+[2022.05.07-11.32.51:875][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2022.05.07-11.32.51:875][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2022.05.07-11.32.51:875][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.05.07-11.32.51:875][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.05.07-11.32.51:876][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.05.07-11.32.51:876][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2022.05.07-11.32.51:876][  0]LogD3D12RHI:   Driver Version: 512.59 (internal:30.0.15.1259, unified:512.59)
+[2022.05.07-11.32.51:876][  0]LogD3D12RHI:      Driver Date: 4-20-2022
+[2022.05.07-11.32.51:876][  0]LogRHI: Texture pool is 3328 MB (70% of 4755 MB)
+[2022.05.07-11.32.51:876][  0]LogD3D12RHI: Async texture creation enabled
+[2022.05.07-11.32.51:876][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.05.07-11.32.51:885][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.05.07-11.32.51:892][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/AfterlifeManor.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Intermediate/TurnkeyReport_0.log" -log="C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Intermediate/TurnkeyLog_0.log" -project="C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/AfterlifeManor.uproject"  -platform=all'
+[2022.05.07-11.32.51:892][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/UE_5.0/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/AfterlifeManor.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Intermediate/TurnkeyReport_0.log" -log="C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Intermediate/TurnkeyLog_0.log" -project="C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/AfterlifeManor.uproject"  -platform=all" ]
+[2022.05.07-11.32.51:929][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.05.07-11.32.51:942][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.05.07-11.32.51:942][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.05.07-11.32.51:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.07-11.32.51:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.07-11.32.51:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.07-11.32.51:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.07-11.32.51:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.07-11.32.51:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.07-11.32.51:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.07-11.32.51:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.07-11.32.51:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.07-11.32.51:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.07-11.32.52:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.05.07-11.32.52:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.05.07-11.32.52:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.07-11.32.52:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.07-11.32.52:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.07-11.32.52:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.05.07-11.32.52:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.07-11.32.52:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.07-11.32.52:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.05.07-11.32.52:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.05.07-11.32.52:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.05.07-11.32.52:030][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.05.07-11.32.52:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.07-11.32.52:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.07-11.32.52:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.07-11.32.52:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.05.07-11.32.52:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.07-11.32.52:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.07-11.32.52:038][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.05.07-11.32.52:046][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.07-11.32.52:049][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.05.07-11.32.52:049][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.05.07-11.32.52:049][  0]LogTargetPlatformManager:   ADPCM
+[2022.05.07-11.32.52:049][  0]LogTargetPlatformManager:   PCM
+[2022.05.07-11.32.52:053][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.05.07-11.32.52:053][  0]LogTargetPlatformManager:   BINKA
+[2022.05.07-11.32.52:053][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.05.07-11.32.52:053][  0]LogTargetPlatformManager:   OGG
+[2022.05.07-11.32.52:053][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.05.07-11.32.52:053][  0]LogTargetPlatformManager:   OPUS
+[2022.05.07-11.32.52:113][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.05.07-11.32.52:120][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.05.07-11.32.52:120][  0]LogTargetPlatformManager:   SF_METAL
+[2022.05.07-11.32.52:120][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.05.07-11.32.52:120][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.05.07-11.32.52:120][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.05.07-11.32.52:120][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.05.07-11.32.52:120][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.05.07-11.32.52:120][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.05.07-11.32.52:120][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.05.07-11.32.52:120][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.05.07-11.32.52:120][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.05.07-11.32.52:120][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.05.07-11.32.52:120][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.05.07-11.32.52:120][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.05.07-11.32.52:120][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.05.07-11.32.52:120][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.05.07-11.32.52:124][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.05.07-11.32.52:124][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.05.07-11.32.52:124][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.05.07-11.32.52:124][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.05.07-11.32.52:124][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.05.07-11.32.52:124][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.05.07-11.32.52:124][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.05.07-11.32.52:124][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.07-11.32.52:124][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.05.07-11.32.52:124][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.07-11.32.52:124][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.05.07-11.32.52:124][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.07-11.32.52:126][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.07-11.32.52:126][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.05.07-11.32.52:126][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.07-11.32.52:126][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.05.07-11.32.52:145][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1091 MiB)
+[2022.05.07-11.32.52:145][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.07-11.32.52:145][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.05.07-11.32.52:150][  0]LogDerivedDataCache: Speed tests for C:/Users/bhome/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.05.07-11.32.52:150][  0]LogDerivedDataCache: Display: Performance to C:/Users/bhome/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1746.55MBs, RandomWriteSpeed=208.21MBs. Assigned SpeedClass 'Local'
+[2022.05.07-11.32.52:151][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bhome/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.07-11.32.52:151][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.07-11.32.52:151][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.05.07-11.32.52:156][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.05.07-11.32.52:156][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.05.07-11.32.52:156][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Intermediate/Shaders/WorkingDirectory/36916/).
+[2022.05.07-11.32.52:156][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bhome/AppData/Local/Temp/UnrealShaderWorkingDir/BC1A80324ABC576D27B9BDAB35337C30/'.
+[2022.05.07-11.32.52:157][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.07-11.32.52:157][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.05.07-11.32.53:309][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.07-11.32.53:309][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.07-11.32.53:340][  0]LogAssetRegistry: FAssetRegistry took 0.0107 seconds to start up
+[2022.05.07-11.32.53:344][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.05.07-11.32.53:514][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.05.07-11.32.53:515][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.05.07-11.32.53:713][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.07-11.32.53:713][  0]LogDeviceProfileManager: Active device profile: [00000A3C46B66580][00000A3C3BF80000 50] WindowsEditor
+[2022.05.07-11.32.53:713][  0]LogDeviceProfileManager: Profiles: [00000A3C46B66040][00000A3C3BF85000 50] Windows, [00000A3C46B66580][00000A3C3BF80000 50] WindowsEditor, [00000A3C46B65400][00000A3C3BF27800 50] WindowsServer, [00000A3C46B61180][00000A3C3BEBC800 50] WindowsClient, [00000A3C46B61DC0][00000A3C3BF82800 50] IOS, [00000A3C46B66740][00000A3C2CA3A000 50] iPadAir2, [00000A3C46B65E80][00000A3C46DB2800 50] IPadPro, [00000A3C46B62A00][00000A3C46DB0000 50] iPadAir3, [00000A3C46B64EC0][00000A3C46DB7800 50] iPadAir4, [00000A3C46B62F40][00000A3C46DBA000 50] iPadMini4, [00000A3C46B61C00][00000A3C46DBC800 50] iPadMini5, [00000A3C46B66AC0][00000A3C4009C800 50] iPadMini6, [00000A3C46B69300][00000A3C46E05000 50] iPhone6S, [00000A3C46B69680][00000A3C46E02800 50] iPhone7, [00000A3C46B69A00][00000A3C46E00000 50] iPodTouch7, [00000A3C46B632C0][00000A3C46E0A000 50] iPhone6SPlus, [00000A3C46B68F80][00000A3C46E0C800 50] iPhone7Plus, [00000A3C46B64440][00000A3C46DB5000 50] iPhoneSE, [00000A3C46B69840][00000A3C46E10000 50] iPhone8, [00000A3C46B63100][00000A3C46E15000 50] iPhone8Plus, [00000A3C46B65940][00000A3C46E17800 50] iPhoneX, [00000A3C46B68C00][00000A3C46E1A000 50] iPhoneXS, [00000A3C46B68DC0][00000A3C46E1C800 50] iPhoneXSMax, [00000A3C46B624C0][00000A3C46E07800 50] iPhoneXR, [00000A3C46B63D40][00000A3C46E20000 50] iPhone11, [00000A3C46B65240][00000A3C46E25000 50] iPhone11Pro, [00000A3C46B63B80][00000A3C46E27800 50] iPhone11ProMax, [00000A3C46B68A40][00000A3C46E2A000 50] iPhoneSE2, [00000A3C46B64D00][00000A3C46E2C800 50] iPhone12Mini, [00000A3C46B68880][00000A3C46E12800 50] iPhone12, [00000A3C46B62680][00000A3C46E40000 50] iPhone12Pro, [00000A3C46B686C0][00000A3C46E45000 50] iPhone12ProMax, [00000A3C46B65080][00000A3C46E47800 50] iPhone13Mini, [00000A3C46B64280][00000A3C46E4A000 50] iPhone13, [00000A3C46B655C0][00000A3C46E4C800 50] iPhone13Pro, [00000A3C46B639C0][00000A3C46E22800 50] iPhone13ProMax, [00000A3C46B678C0][00000A3C46E50000 50] iPadPro105, [00000A3C46B63800][00000A3C46E55000 50] iPadPro129, [00000A3C46B67E00][00000A3C46E57800 50] iPadPro97, [00000A3C46B63F00][00000A3C46E5A000 50] iPadPro2_129, [00000A3C46B640C0][00000A3C46E5C800 50] iPad5, [00000A3C46B64600][00000A3C46E42800 50] iPad6, [00000A3C46B65B00][00000A3C46E60000 50] iPad7, [00000A3C46B64B40][00000A3C46E65000 50] iPad8, [00000A3C46B65CC0][00000A3C46E67800 50] iPad9, [00000A3C46B65780][00000A3C46E6A000 50] iPadPro11, [00000A3C46B69140][00000A3C46E6C800 50] iPadPro2_11, [00000A3C46B66900][00000A3C46E52800 50] iPadPro3_11, [00000A3C46B61340][00000A3C46E70000 50] iPadPro3_129, [00000A3C46B68340][00000A3C46E75000 50] iPadPro4_129, [00000A3C46B67C40][00000A3C46E77800 50] iPadPro5_129, [00000A3C46B62BC0][00000A3C46E7A000 50] AppleTV, [00000A3C46B694C0][00000A3C46E7C800 50] AppleTV4K, [00000A3C46B67000][00000A3C46E62800 50] TVOS, [00000A3C46B6BEC0][00000A3C46E92800 50] Mac, [00000A3C46B6C240][00000A3C46E90000 50] MacEditor, [00000A3C46B6AF00][00000A3C46E97800 50] MacClient, [00000A3C46B68500][00000A3C46E9A000 50] MacServer, [00000A3C46B6C400][00000A3C46E72800 50] Linux, [00000A3C46B63480][00000A3C46E9C800 50] LinuxEditor, [00000A3C46B62300][00000A3C46EA0000 50] LinuxArm64Editor, [00000A3C46B69BC0][00000A3C46EA5000 50] LinuxArm64, [00000A3C46B6A100][00000A3C46EA7800 50] LinuxClient, [00000A3C46B6C940][00000A3C46EAA000 50] LinuxArm64Client, [00000A3C46B647C0][00000A3C46EAC800 50] LinuxServer, [00000A3C46B66E40][00000A3C46E95000 50] LinuxArm64Server, [00000A3C46B6C5C0][00000A3C46EB0000 50] Android, [00000A3C46B67380][00000A3C46EB5000 50] Android_Preview_OpenGL, [00000A3C46B6B7C0][00000A3C46EB7800 50] Android_Preview_Vulkan, [00000A3C46B67540][00000A3C46EBA000 50] Android_Low, [00000A3C46B67FC0][00000A3C46EBC800 50] Android_Mid, [00000A3C46B6B280][00000A3C46EA2800 50] Android_High, [00000A3C46B62140][00000A3C46EC0000 50] Android_Default, [00000A3C46B67700][00000A3C46EC5000 50] Android_Adreno4xx, [00000A3C46B6B600][00000A3C46EC7800 50] Android_Adreno5xx_Low, [00000A3C46B6B980][00000A3C46ECA000 50] Android_Adreno5xx, [00000A3C46B6AB80][00000A3C46ECC800 50] Android_Adreno6xx, [00000A3C46B6A9C0][00000A3C46EB2800 50] Android_Adreno6xx_Vulkan, [00000A3C46B62840][00000A3C46ED0000 50] Android_Adreno7xx, [00000A3C46B66C80][00000A3C46ED5000 50] Android_Adreno7xx_Vulkan, [00000A3C46B663C0][00000A3C46ED7800 50] Android_Mali_T6xx, [00000A3C46B61500][00000A3C46EDA000 50] Android_Mali_T7xx, [00000A3C46B63640][00000A3C46EDC800 50] Android_Mali_T8xx, [00000A3C46B62D80][00000A3C46EC2800 50] Android_Mali_G71, [00000A3C46B69D80][00000A3C46EE0000 50] Android_Mali_G72, [00000A3C46B671C0][00000A3C46EE5000 50] Android_Mali_G72_Vulkan, [00000A3C46B68180][00000A3C46EE7800 50] Android_Mali_G76, [00000A3C46B6C780][00000A3C46EEA000 50] Android_Mali_G76_Vulkan, [00000A3C46B6B0C0][00000A3C46EEC800 50] Android_Mali_G77, [00000A3C46B6A640][00000A3C46ED2800 50] Android_Mali_G77_Vulkan, [00000A3C46B6D200][00000A3C46EF0000 50] Android_Mali_G78, [00000A3C46B6DC80][00000A3C46EF5000 50] Android_Mali_G78_Vulkan, [00000A3C46B6DE40][00000A3C46EF7800 50] Android_Mali_G710, [00000A3C46B6E000][00000A3C46EFA000 50] Android_Mali_G710_Vulkan, [00000A3C46B6D040][00000A3C46EFC800 50] Android_Xclipse_920, [00000A3C46B6E380][00000A3C46EE2800 50] Android_Xclipse_920_Vulkan, [00000A3C46B6AD40][00000A3C46F00000 50] Android_Vulkan_SM5, [00000A3C46B6E8C0][00000A3C46F05000 50] Android_PowerVR_G6xxx, [00000A3C46B6BD00][00000A3C46F07800 50] Android_PowerVR_GT7xxx, [00000A3C46B6EC40][00000A3C46F0A000 50] Android_PowerVR_GE8xxx, [00000A3C46B6EE00][00000A3C46F0C800 50] Android_PowerVR_GM9xxx, [00000A3C46B6EFC0][00000A3C46EF2800 50] Android_PowerVR_GM9xxx_Vulkan, [00000A3C46B6A2C0][00000A3C46F10000 50] Android_TegraK1, [00000A3C46B6F340][00000A3C46F15000 50] Android_Unknown_Vulkan, [00000A3C46B6EA80][00000A3C46F17800 50] Oculus_Quest, [00000A3C46B6F6C0][00000A3C46F1A000 50] Oculus_Quest2, [00000A3C46B6A480][00000A3C46F1C800 50] HoloLens, 
+[2022.05.07-11.32.53:713][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.05.07-11.32.53:732][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.05.07-11.32.53:907][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.07-11.32.53:907][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.07-11.32.53:907][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.07-11.32.53:907][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.07-11.32.53:907][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.07-11.32.53:921][  0]LogNetVersion: AfterlifeManor 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 4026536419)
+[2022.05.07-11.32.54:029][  0]LogSlate: Border
+[2022.05.07-11.32.54:029][  0]LogSlate: BreadcrumbButton
+[2022.05.07-11.32.54:029][  0]LogSlate: Default
+[2022.05.07-11.32.54:029][  0]LogSlate: Icons.Save
+[2022.05.07-11.32.54:029][  0]LogSlate: Icons.Toolbar.Settings
+[2022.05.07-11.32.54:029][  0]LogSlate: ListView
+[2022.05.07-11.32.54:029][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.05.07-11.32.54:029][  0]LogSlate: SoftwareCursor_Grab
+[2022.05.07-11.32.54:029][  0]LogSlate: TableView.DarkRow
+[2022.05.07-11.32.54:029][  0]LogSlate: TableView.Row
+[2022.05.07-11.32.54:029][  0]LogSlate: TreeView
+[2022.05.07-11.32.54:172][  0]SourceControl: Source control is disabled
+[2022.05.07-11.32.54:196][  0]SourceControl: Source control is disabled
+[2022.05.07-11.32.54:196][  0]SourceControl: Source control is disabled
+[2022.05.07-11.32.54:300][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.05.07-11.32.54:300][  0]LogUObjectAllocator: 5584240 out of 0 bytes used by permanent object pool.
+[2022.05.07-11.32.54:300][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.07-11.32.54:539][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 87F7CDE04C2524A8FCB51889E3113F4D | Instance: CD615E8A4D6893760A20E0817FAA3FDD (THEODOPOLIS-36916).
+[2022.05.07-11.32.54:706][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.07-11.32.54:715][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.07-11.32.54:733][  0]LogPython: Using Python 3.9.7
+[2022.05.07-11.32.55:558][  0]SourceControl: Source control is disabled
+[2022.05.07-11.32.55:568][  0]SourceControl: Source control is disabled
+[2022.05.07-11.32.55:571][  0]SourceControl: Source control is disabled
+[2022.05.07-11.32.55:585][  0]LogUProjectInfo: Found projects:
+[2022.05.07-11.32.55:964][  0]LogOpenImageDenoise: OIDN starting up
+[2022.05.07-11.32.55:981][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.07-11.32.56:007][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.07-11.32.56:007][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.07-11.32.56:111][  0]LogCollectionManager: Loaded 0 collections in 0.001726 seconds
+[2022.05.07-11.32.56:201][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/Collections/' took 0.00s
+[2022.05.07-11.32.56:201][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Developers/bhome/Collections/' took 0.00s
+[2022.05.07-11.32.56:201][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Collections/' took 0.00s
+[2022.05.07-11.32.56:445][  0]LogEngine: Initializing Engine...
+[2022.05.07-11.32.56:458][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.05.07-11.32.56:460][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.07-11.32.56:688][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.07-11.32.56:688][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.07-11.32.56:699][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.07-11.32.56:730][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.07-11.32.56:731][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.07-11.32.56:756][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.07-11.32.56:756][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.07-11.32.56:756][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.05.07-11.32.56:757][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.07-11.32.56:757][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.07-11.32.56:757][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.07-11.32.56:757][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.07-11.32.56:757][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.07-11.32.56:757][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.07-11.32.56:757][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.07-11.32.56:757][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.07-11.32.56:757][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.07-11.32.56:757][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.07-11.32.56:757][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.07-11.32.56:757][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.07-11.32.56:757][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.07-11.32.56:787][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.07-11.32.56:864][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2022.05.07-11.32.56:864][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.07-11.32.56:866][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.07-11.32.56:866][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.07-11.32.56:866][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.05.07-11.32.56:866][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.07-11.32.56:867][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.07-11.32.56:867][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.05.07-11.32.56:867][  0]LogInit: FAudioDevice initialized.
+[2022.05.07-11.32.56:867][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.07-11.32.56:868][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.07-11.32.56:868][  0]LogInit: Texture streaming: Enabled
+[2022.05.07-11.32.56:905][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.0-19505902+++UE5+Release-5.0
+[2022.05.07-11.32.56:916][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.07-11.32.56:950][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.05.07-11.32.56:959][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.05.07-11.32.56:959][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.05.07-11.32.58:214][  0]LogLiveCoding: Display: First instance in process group "UE_AfterlifeManor_0xc01e162d", spawning console
+[2022.05.07-11.32.58:214][  0]LogLiveCoding: Display: Waiting for server
+[2022.05.07-11.32.58:214][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.05.07-11.32.58:243][  0]LogInit: Transaction tracking system initialized
+[2022.05.07-11.32.58:324][  0]BlueprintLog: New page: Editor Load
+[2022.05.07-11.32.58:541][  0]LocalizationService: Localization service is disabled
+[2022.05.07-11.32.58:594][  0]TimingProfiler: Initialize
+[2022.05.07-11.32.58:594][  0]TimingProfiler: OnSessionChanged
+[2022.05.07-11.32.58:594][  0]LoadingProfiler: Initialize
+[2022.05.07-11.32.58:594][  0]LoadingProfiler: OnSessionChanged
+[2022.05.07-11.32.58:594][  0]NetworkingProfiler: Initialize
+[2022.05.07-11.32.58:594][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.07-11.32.58:594][  0]MemoryProfiler: Initialize
+[2022.05.07-11.32.58:594][  0]MemoryProfiler: OnSessionChanged
+[2022.05.07-11.32.59:266][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/' took 0.01s
+[2022.05.07-11.32.59:266][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.05.07-11.32.59:359][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.07-11.32.59:361][  0]SourceControl: Source control is disabled
+[2022.05.07-11.32.59:568][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.07-11.33.20:962][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2022.05.07-11.33.25:637][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2022.05.07-11.33.25:640][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Assets/Meshes/Walls/Levels/GEO_FirstFloor
+[2022.05.07-11.33.25:707][  0]LogUnrealEdMisc: Loading editor; pre map load, took 36.390
+[2022.05.07-11.33.25:707][  0]Cmd: MAP LOAD FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.07-11.33.25:707][  0]LightingResults: New page: Lighting Build
+[2022.05.07-11.33.25:715][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-11.33.25:715][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-11.33.25:715][  0]MapCheck: New page: Map Check
+[2022.05.07-11.33.25:715][  0]LightingResults: New page: Lighting Build
+[2022.05.07-11.33.25:720][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.07-11.33.25:723][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.07-11.33.26:275][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2022.05.07-11.33.26:275][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.07-11.33.26:275][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.07-11.33.26:275][  0]LogAIModule: Creating AISystem for world MainLevel
+[2022.05.07-11.33.26:281][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.07-11.33.26:307][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.07-11.33.26:307][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.07-11.33.26:307][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2022.05.07-11.33.26:307][  0]LogFileHelpers: Loading map 'MainLevel' took 0.600
+[2022.05.07-11.33.26:318][  0]LogUnrealEdMisc: Total Editor Startup Time, took 37.000
+[2022.05.07-11.33.26:318][  0]LogShaderCompilers: Display: ================================================
+[2022.05.07-11.33.26:318][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.07-11.33.26:318][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.07-11.33.26:318][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.07-11.33.26:318][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.05.07-11.33.26:318][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.07-11.33.26:318][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.05.07-11.33.26:318][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.05.07-11.33.26:318][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.05.07-11.33.26:318][  0]LogShaderCompilers: Display: ================================================
+[2022.05.07-11.33.26:389][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-11.33.26:393][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-11.33.26:397][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-11.33.26:402][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-11.33.26:417][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.05.07-11.33.26:417][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.07-11.33.26:417][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.05.07-11.33.26:417][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.07-11.33.26:417][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.05.07-11.33.26:417][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.07-11.33.26:418][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.05.07-11.33.26:418][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.07-11.33.26:418][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.05.07-11.33.26:418][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.07-11.33.26:419][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.05.07-11.33.26:419][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.07-11.33.26:419][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.05.07-11.33.26:419][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.07-11.33.26:420][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.05.07-11.33.26:420][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.07-11.33.26:420][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.05.07-11.33.26:420][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.07-11.33.26:420][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.05.07-11.33.26:420][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.07-11.33.26:583][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.07-11.33.26:584][  0]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.07-11.33.26:585][  0]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.07-11.33.26:585][  0]LogSlate: Took 0.000059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.07-11.33.27:307][  0]LogStall: Startup...
+[2022.05.07-11.33.27:309][  0]LogStall: Startup complete.
+[2022.05.07-11.33.27:320][  0]LogLoad: (Engine Initialization) Total time: 38.00 seconds
+[2022.05.07-11.33.27:320][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.07-11.33.27:398][  0]LogAssetRegistry: Asset discovery search completed in 34.0591 seconds
+[2022.05.07-11.33.27:411][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.05.07-11.33.27:436][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.07-11.33.27:544][  2]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.07-11.33.32:485][346]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.33.32:485][346]Can't find target element.
+[2022.05.07-11.33.40:492][972]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.34.52:780][432]LogDerivedDataCache: C:/Users/bhome/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.628 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.07-11.35.24:969][927]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2022.05.07-11.35.24:969][927]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2022.05.07-11.36.44:775][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-11.36.44:780][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.07-11.36.44:785][576]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004303 seconds
+[2022.05.07-11.36.44:829][576]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-11.36.44:830][576]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevel6D462DAD4F3DABFC53CCD58847213C13.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-11.36.44:842][576]LogFileHelpers: No new changes to save!
+[2022.05.07-11.36.44:855][576]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-11.36.44:855][576]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-11.36.56:219][188]Cmd: DELETE
+[2022.05.07-11.36.56:220][188]Cmd: ACTOR DELETE
+[2022.05.07-11.36.56:224][188]LogEditorActor: Deleted Actor: PointLight
+[2022.05.07-11.36.56:229][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.05.07-11.36.56:230][188]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.05.07-11.39.19:870][637]LogMetaData: Removing '/Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard01.GEO_DF_Billiard01' ref from Metadata '/Game/Assets/Meshes/BilliardRoom/Doorframes/GEO_DF_Billiard01.PackageMetaData'
+[2022.05.07-11.39.19:875][637]LogMetaData: Removing '/Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard02.GEO_DF_Billiard02' ref from Metadata '/Game/Assets/Meshes/BilliardRoom/Doorframes/GEO_DF_Billiard02.PackageMetaData'
+[2022.05.07-11.39.19:966][637]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard01
+[2022.05.07-11.39.19:966][637]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Billiard013201EE8B41E85D3F6CE44B9C04BB2A9C.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard01.uasset'
+[2022.05.07-11.39.19:969][637]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/BilliardRoom/Doorframes/GEO_DF_Billiard01
+[2022.05.07-11.39.19:970][637]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Billiard01BF4994404660CE4237C81E91E0FEED81.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/BilliardRoom/Doorframes/GEO_DF_Billiard01.uasset'
+[2022.05.07-11.39.19:983][637]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard02
+[2022.05.07-11.39.19:983][637]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Billiard02E0E359504985168F8BD1CB9FBB5427AF.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard02.uasset'
+[2022.05.07-11.39.19:986][637]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/BilliardRoom/Doorframes/GEO_DF_Billiard02
+[2022.05.07-11.39.19:987][637]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Billiard02BCA5C0B044D4CA58D1653AB2AB9EA7D2.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/BilliardRoom/Doorframes/GEO_DF_Billiard02.uasset'
+[2022.05.07-11.39.20:006][637]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.07-11.39.20:006][637]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/BilliardRoom/Doorframes/GEO_DF_Billiard02.GEO_DF_Billiard02
+[2022.05.07-11.39.20:006][637]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/BilliardRoom/Doorframes/GEO_DF_Billiard01.GEO_DF_Billiard01
+[2022.05.07-11.39.20:006][637]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard01.GEO_DF_Billiard01
+[2022.05.07-11.39.20:006][637]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard02.GEO_DF_Billiard02
+[2022.05.07-11.39.28:173][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.07-11.39.33:209][263]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.07-11.39.33:215][263]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Assets/Meshes/BilliardRoom/Doorframes/GEO_DF_Billiard02.GEO_DF_Billiard02
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Assets/Meshes/BilliardRoom/Doorframes/GEO_DF_Billiard01.GEO_DF_Billiard01
+	Asset Type: ObjectRedirector
+[2022.05.07-11.39.33:329][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.07-11.39.33:334][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.07-11.39.33:338][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.05.07-11.39.45:454][870]LogLinker: Warning: [AssetLog] C:\Users\bhome\Documents\Unreal_Projects\AfterlifeManor\Content\Assets\Meshes\BilliardRoom\Doors\GEO_Door_Billiard02.uasset: Failed to load '/Game/Assets/Materials/MaterialInstances/Walls/Doors/MI_Door_Billiard02': Can't find file.
+[2022.05.07-11.39.45:455][870]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/Materials/MaterialInstances/Walls/Doors/MI_Door_Billiard02'
+[2022.05.07-11.39.45:455][870]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Meshes/BilliardRoom/Doors/GEO_Door_Billiard02.GEO_Door_Billiard02
+[2022.05.07-11.39.45:540][870]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.07-11.39.45:587][870]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.39.45:604][870]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.39.45:801][870]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.39.45:801][870]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.39.45:801][870]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.39.45:919][872]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.39.59:250][328]LogSlate: Window 'GEO_Door_Billiard02' being destroyed
+[2022.05.07-11.39.59:255][328]LogSlate: Window 'GEO_Door_Billiard02' being destroyed
+[2022.05.07-11.39.59:276][328]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-11.39.59:276][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-11.40.00:016][365]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:092][366]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:101][367]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:109][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:121][369]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:171][371]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:194][372]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:214][373]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:238][374]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:262][375]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:286][376]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:310][377]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:334][378]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:358][379]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:382][380]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:406][381]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:430][382]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:456][383]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:480][384]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:504][385]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:528][386]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:553][387]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:576][388]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:600][389]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:625][390]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:649][391]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:672][392]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:697][393]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:721][394]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:745][395]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:770][396]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:794][397]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:818][398]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:842][399]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:866][400]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:890][401]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:914][402]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:938][403]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:962][404]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.00:987][405]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:011][406]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:035][407]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:060][408]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:181][417]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:197][418]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:250][419]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:264][420]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:289][421]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:313][422]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:337][423]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:361][424]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:385][425]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:409][426]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:433][427]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:457][428]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:481][429]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:505][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:529][431]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:554][432]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:578][433]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:602][434]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:626][435]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:650][436]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:674][437]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:698][438]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:722][439]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:746][440]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:770][441]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:794][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:819][443]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:843][444]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:867][445]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:891][446]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_Door_Billiard02] - forcing default material instead.
+[2022.05.07-11.40.01:939][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.07-11.40.02:991][447]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.07-11.40.03:001][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.07-11.40.03:006][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.07-11.40.03:011][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.07-11.40.41:443][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-11.40.41:448][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.07-11.40.41:492][622]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-11.40.41:492][622]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevel619E9AA74EDCF3F8D0EA6BBA5E7E4BA3.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-11.40.41:503][622]LogFileHelpers: No new changes to save!
+[2022.05.07-11.40.41:512][622]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-11.40.41:512][622]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-11.40.56:712][352]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard01.GEO_DF_Billiard01
+[2022.05.07-11.40.56:712][352]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard01.GEO_DF_Billiard01
+[2022.05.07-11.40.56:712][352]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard01.GEO_DF_Billiard01 as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_6
+[2022.05.07-11.41.00:772][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard01.GEO_DF_Billiard01
+[2022.05.07-11.41.00:772][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard01.GEO_DF_Billiard01
+[2022.05.07-11.41.00:773][643]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard01.GEO_DF_Billiard01 as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_31
+[2022.05.07-11.41.29:628][519]Cmd: ACTOR BAKEPREPIVOT
+[2022.05.07-11.41.35:944][827]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.41.38:424][951]Cmd: DELETE
+[2022.05.07-11.41.38:424][951]Cmd: ACTOR DELETE
+[2022.05.07-11.41.38:428][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.07-11.41.38:445][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.05.07-11.41.38:447][951]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.05.07-11.41.41:069][ 88]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.42.16:993][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-11.42.16:997][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.05.07-11.42.17:042][295]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-11.42.17:043][295]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevelF418D56C4310344EFFD861A2C25C297A.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-11.42.17:055][295]LogFileHelpers: No new changes to save!
+[2022.05.07-11.42.17:063][295]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-11.42.17:063][295]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-11.42.34:967][860]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.07-11.42.36:574][ 43]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.42.49:243][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-11.42.49:248][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.07-11.42.49:292][982]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-11.42.49:293][982]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevelF4FC3F484DC788BF7F5C2085652FE7ED.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-11.42.49:303][982]LogFileHelpers: No new changes to save!
+[2022.05.07-11.42.49:316][982]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-11.42.49:316][982]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-11.43.38:776][455]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Walls/Doors/GEO_StdDoor01.GEO_StdDoor01
+[2022.05.07-11.43.38:776][455]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Walls/Doors/GEO_StdDoor01.GEO_StdDoor01
+[2022.05.07-11.43.38:776][455]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/Walls/Doors/GEO_StdDoor01.GEO_StdDoor01 as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_35
+[2022.05.07-11.43.40:785][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Walls/Doors/GEO_StdDoor01.GEO_StdDoor01
+[2022.05.07-11.43.40:786][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Walls/Doors/GEO_StdDoor01.GEO_StdDoor01
+[2022.05.07-11.43.40:786][612]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/Walls/Doors/GEO_StdDoor01.GEO_StdDoor01 as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_37
+[2022.05.07-11.43.41:763][665]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.44.12:599][427]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.44.41:878][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-11.44.41:883][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.07-11.44.41:928][929]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-11.44.41:929][929]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevel47AC20EC40AE63850C8627BF72CBCE26.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-11.44.41:940][929]LogFileHelpers: No new changes to save!
+[2022.05.07-11.44.41:952][929]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-11.44.41:953][929]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-11.44.51:647][410]Cmd: TRANSACTION UNDO
+[2022.05.07-11.44.51:647][410]LogEditorTransaction: Undo Move Elements
+[2022.05.07-11.44.55:437][587]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.45.43:226][416]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Walls/Doors/GEO_StdDoor01.GEO_StdDoor01
+[2022.05.07-11.45.43:226][416]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Walls/Doors/GEO_StdDoor01.GEO_StdDoor01
+[2022.05.07-11.45.43:227][416]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/Walls/Doors/GEO_StdDoor01.GEO_StdDoor01 as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_42
+[2022.05.07-11.45.45:657][595]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Walls/Doors/GEO_StdDoor01.GEO_StdDoor01
+[2022.05.07-11.45.45:657][595]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Walls/Doors/GEO_StdDoor01.GEO_StdDoor01
+[2022.05.07-11.45.45:658][595]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/Walls/Doors/GEO_StdDoor01.GEO_StdDoor01 as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_65
+[2022.05.07-11.46.13:189][900]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.46.22:289][374]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.46.42:228][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-11.46.42:233][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.07-11.46.42:279][395]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-11.46.42:280][395]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevel01683F95401C59BF98FA56A3DB228461.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-11.46.42:291][395]LogFileHelpers: No new changes to save!
+[2022.05.07-11.46.42:301][395]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-11.46.42:301][395]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-11.47.26:389][946]LogContentBrowser: Attempting asset rename: Walls -> Structural
+[2022.05.07-11.47.26:397][946]LogLinker: Warning: [AssetLog] C:\Users\bhome\Documents\Unreal_Projects\AfterlifeManor\Content\Assets\Meshes\Walls\GEO_SecondFloorLayout.uasset: Failed to load '/Game/Assets/Meshes/Walls/Levels/GEO_SecondFloorLayout': Can't find file.
+[2022.05.07-11.47.26:397][946]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/Meshes/Walls/Levels/GEO_SecondFloorLayout'
+[2022.05.07-11.47.26:404][946]LogLinker: Warning: [AssetLog] C:\Users\bhome\Documents\Unreal_Projects\AfterlifeManor\Content\Assets\Meshes\Walls\EXP_LowerFloor.uasset: Failed to load '/Game/Assets/Meshes/Walls/GEO_FirstFloorLayout': Can't find file.
+[2022.05.07-11.47.26:404][946]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/Meshes/Walls/GEO_FirstFloorLayout'
+[2022.05.07-11.47.26:439][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Billiard01.GEO_DF_Billiard01' ref from Metadata '/Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard01.PackageMetaData'
+[2022.05.07-11.47.26:441][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Billiard02.GEO_DF_Billiard02' ref from Metadata '/Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard02.PackageMetaData'
+[2022.05.07-11.47.26:443][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Front01.GEO_DF_Front01' ref from Metadata '/Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Front01.PackageMetaData'
+[2022.05.07-11.47.26:447][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Front02.GEO_DF_Front02' ref from Metadata '/Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Front02.PackageMetaData'
+[2022.05.07-11.47.26:450][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Front03.GEO_DF_Front03' ref from Metadata '/Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Front03.PackageMetaData'
+[2022.05.07-11.47.26:453][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Front04.GEO_DF_Front04' ref from Metadata '/Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Front04.PackageMetaData'
+[2022.05.07-11.47.26:456][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Front05.GEO_DF_Front05' ref from Metadata '/Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Front05.PackageMetaData'
+[2022.05.07-11.47.26:459][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Doors/GEO_FrontDoor01.GEO_FrontDoor01' ref from Metadata '/Game/Assets/Meshes/Walls/Doors/GEO_FrontDoor01.PackageMetaData'
+[2022.05.07-11.47.26:462][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Doors/GEO_PocketDoor01.GEO_PocketDoor01' ref from Metadata '/Game/Assets/Meshes/Walls/Doors/GEO_PocketDoor01.PackageMetaData'
+[2022.05.07-11.47.26:465][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Doors/GEO_StdDoor01.GEO_StdDoor01' ref from Metadata '/Game/Assets/Meshes/Walls/Doors/GEO_StdDoor01.PackageMetaData'
+[2022.05.07-11.47.26:468][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Doors/GEO_ThickDoor01.GEO_ThickDoor01' ref from Metadata '/Game/Assets/Meshes/Walls/Doors/GEO_ThickDoor01.PackageMetaData'
+[2022.05.07-11.47.26:471][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Levels/GEO_FirstFloor.GEO_FirstFloor' ref from Metadata '/Game/Assets/Meshes/Walls/Levels/GEO_FirstFloor.PackageMetaData'
+[2022.05.07-11.47.26:473][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Levels/GEO_FloorBetween.GEO_FloorBetween' ref from Metadata '/Game/Assets/Meshes/Walls/Levels/GEO_FloorBetween.PackageMetaData'
+[2022.05.07-11.47.26:476][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Levels/GEO_SecondFloor.GEO_SecondFloor' ref from Metadata '/Game/Assets/Meshes/Walls/Levels/GEO_SecondFloor.PackageMetaData'
+[2022.05.07-11.47.26:479][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/MainStaircase/GEO_Balister01.GEO_Balister01' ref from Metadata '/Game/Assets/Meshes/Walls/MainStaircase/GEO_Balister01.PackageMetaData'
+[2022.05.07-11.47.26:481][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/MainStaircase/GEO_Handrail01.GEO_Handrail01' ref from Metadata '/Game/Assets/Meshes/Walls/MainStaircase/GEO_Handrail01.PackageMetaData'
+[2022.05.07-11.47.26:483][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/MainStaircase/GEO_Handrail02.GEO_Handrail02' ref from Metadata '/Game/Assets/Meshes/Walls/MainStaircase/GEO_Handrail02.PackageMetaData'
+[2022.05.07-11.47.26:489][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/MainStaircase/GEO_NewelPost01.GEO_NewelPost01' ref from Metadata '/Game/Assets/Meshes/Walls/MainStaircase/GEO_NewelPost01.PackageMetaData'
+[2022.05.07-11.47.26:491][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/MainStaircase/GEO_Staircase.GEO_Staircase' ref from Metadata '/Game/Assets/Meshes/Walls/MainStaircase/GEO_Staircase.PackageMetaData'
+[2022.05.07-11.47.26:494][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/MainStaircase/GEO_WS_Staircase01.GEO_WS_Staircase01' ref from Metadata '/Game/Assets/Meshes/Walls/MainStaircase/GEO_WS_Staircase01.PackageMetaData'
+[2022.05.07-11.47.26:496][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Billiard01.GEO_WF_Billiard01' ref from Metadata '/Game/Assets/Meshes/Walls/Windowframes/GEO_WF_Billiard01.PackageMetaData'
+[2022.05.07-11.47.26:499][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Small01.GEO_WF_Small01' ref from Metadata '/Game/Assets/Meshes/Walls/Windowframes/GEO_WF_Small01.PackageMetaData'
+[2022.05.07-11.47.26:501][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Small02.GEO_WF_Small02' ref from Metadata '/Game/Assets/Meshes/Walls/Windowframes/GEO_WF_Small02.PackageMetaData'
+[2022.05.07-11.47.26:503][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Windows/GEO_Window01_Frame.GEO_Window01_Frame' ref from Metadata '/Game/Assets/Meshes/Walls/Windows/GEO_Window01_Frame.PackageMetaData'
+[2022.05.07-11.47.26:505][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Windows/GEO_Window01_Glass.GEO_Window01_Glass' ref from Metadata '/Game/Assets/Meshes/Walls/Windows/GEO_Window01_Glass.PackageMetaData'
+[2022.05.07-11.47.26:508][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Windows/GEO_Window_Front01_Glass.GEO_Window_Front01_Glass' ref from Metadata '/Game/Assets/Meshes/Walls/Windows/GEO_Window_Front01_Glass.PackageMetaData'
+[2022.05.07-11.47.26:511][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Windows/GEO_Window_Front01_Metal.GEO_Window_Front01_Metal' ref from Metadata '/Game/Assets/Meshes/Walls/Windows/GEO_Window_Front01_Metal.PackageMetaData'
+[2022.05.07-11.47.26:513][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Windows/GEO_Window_Front02_Glass.GEO_Window_Front02_Glass' ref from Metadata '/Game/Assets/Meshes/Walls/Windows/GEO_Window_Front02_Glass.PackageMetaData'
+[2022.05.07-11.47.26:515][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Windows/GEO_Window_Front02_Metal.GEO_Window_Front02_Metal' ref from Metadata '/Game/Assets/Meshes/Walls/Windows/GEO_Window_Front02_Metal.PackageMetaData'
+[2022.05.07-11.47.26:520][946]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Levels/GEO_Floor.GEO_Floor' ref from Metadata '/Game/Assets/Meshes/Walls/Levels/GEO_Floor.PackageMetaData'
+[2022.05.07-11.47.26:582][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Billiard01
+[2022.05.07-11.47.26:582][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Billiard011B3DC2F748D354126FD9A6BF009B4ABE.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Doorframes/GEO_DF_Billiard01.uasset'
+[2022.05.07-11.47.26:584][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard01
+[2022.05.07-11.47.26:585][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Billiard01E9E162EA4DC466D13D60C4B18DD87654.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard01.uasset'
+[2022.05.07-11.47.26:588][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Billiard02
+[2022.05.07-11.47.26:588][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Billiard02CBADFBC347F38515F847D3A77A534CD9.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Doorframes/GEO_DF_Billiard02.uasset'
+[2022.05.07-11.47.26:592][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard02
+[2022.05.07-11.47.26:592][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Billiard02659DF9524DC7E9A4DC3AD4A2AEB88D0B.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard02.uasset'
+[2022.05.07-11.47.26:621][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Front01
+[2022.05.07-11.47.26:621][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Front016FBCDBAA4442AB8EDB2CBB81A3DA4C26.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Doorframes/GEO_DF_Front01.uasset'
+[2022.05.07-11.47.26:623][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Front01
+[2022.05.07-11.47.26:624][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Front01032F0AA04BE0D23EEED302A855B518AF.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Doorframes/GEO_DF_Front01.uasset'
+[2022.05.07-11.47.26:658][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Front02
+[2022.05.07-11.47.26:659][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Front026DD0B5E247A7D6484D338881F1282CB2.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Doorframes/GEO_DF_Front02.uasset'
+[2022.05.07-11.47.26:660][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Front02
+[2022.05.07-11.47.26:661][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Front022549AD694963B46ECE0A628FFA267075.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Doorframes/GEO_DF_Front02.uasset'
+[2022.05.07-11.47.26:684][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Front03
+[2022.05.07-11.47.26:684][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Front037AE2671F4D5AD93C842E55AFD0BAFD86.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Doorframes/GEO_DF_Front03.uasset'
+[2022.05.07-11.47.26:686][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Front03
+[2022.05.07-11.47.26:687][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Front039B359BE348E4175C295DF6B06E102F01.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Doorframes/GEO_DF_Front03.uasset'
+[2022.05.07-11.47.26:710][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Front04
+[2022.05.07-11.47.26:710][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Front0450BDCC524E461925385100BA75B3102C.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Doorframes/GEO_DF_Front04.uasset'
+[2022.05.07-11.47.26:713][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Front04
+[2022.05.07-11.47.26:713][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Front04026BB1AB4D6B7F54B5F7EEA9F1F147EE.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Doorframes/GEO_DF_Front04.uasset'
+[2022.05.07-11.47.26:747][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Front05
+[2022.05.07-11.47.26:747][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Front05B21198E8497B02509185AB92DA9FA4D8.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Doorframes/GEO_DF_Front05.uasset'
+[2022.05.07-11.47.26:750][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Front05
+[2022.05.07-11.47.26:750][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Front0529AE1DDD498378056C753594E9EE09DC.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Doorframes/GEO_DF_Front05.uasset'
+[2022.05.07-11.47.26:769][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Doors/GEO_FrontDoor01
+[2022.05.07-11.47.26:769][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_FrontDoor01E99768AB4931A2EA90E68CBF21D16324.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Doors/GEO_FrontDoor01.uasset'
+[2022.05.07-11.47.26:771][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Doors/GEO_FrontDoor01
+[2022.05.07-11.47.26:772][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_FrontDoor01AC36B4324207865E4A24858114D6CC88.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Doors/GEO_FrontDoor01.uasset'
+[2022.05.07-11.47.26:810][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Doors/GEO_PocketDoor01
+[2022.05.07-11.47.26:810][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_PocketDoor01BD3AB1164ED9803D960C6EB76CE45452.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Doors/GEO_PocketDoor01.uasset'
+[2022.05.07-11.47.26:813][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Doors/GEO_PocketDoor01
+[2022.05.07-11.47.26:814][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_PocketDoor0161917C364BA23F5674988C9BB264A85C.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Doors/GEO_PocketDoor01.uasset'
+[2022.05.07-11.47.26:831][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Doors/GEO_StdDoor01
+[2022.05.07-11.47.26:831][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_StdDoor01FB32282C4D0689A77A98E0BAE404E874.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Doors/GEO_StdDoor01.uasset'
+[2022.05.07-11.47.26:833][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Doors/GEO_StdDoor01
+[2022.05.07-11.47.26:834][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_StdDoor0159FB001A4E85B129E7E19B93212EB06F.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Doors/GEO_StdDoor01.uasset'
+[2022.05.07-11.47.26:859][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Doors/GEO_ThickDoor01
+[2022.05.07-11.47.26:859][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_ThickDoor01D38DB57C46869DA9596A52BBDFB99B95.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Doors/GEO_ThickDoor01.uasset'
+[2022.05.07-11.47.26:860][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Doors/GEO_ThickDoor01
+[2022.05.07-11.47.26:861][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_ThickDoor0127C6A8BC4FE4A5A3BE963787FB4E2AD9.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Doors/GEO_ThickDoor01.uasset'
+[2022.05.07-11.47.26:863][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/lambert1
+[2022.05.07-11.47.26:863][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/lambert1293EBFFD40A9828F447B2B9DB74348D4.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/lambert1.uasset'
+[2022.05.07-11.47.26:888][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Levels/GEO_FirstFloor
+[2022.05.07-11.47.26:888][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_FirstFloor7B8C9FA34B60C9940F30F5B8C6ACC121.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Levels/GEO_FirstFloor.uasset'
+[2022.05.07-11.47.26:890][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Levels/GEO_FirstFloor
+[2022.05.07-11.47.26:891][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_FirstFloor10DE0ABF4BF3560977F73DB12B3381FD.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Levels/GEO_FirstFloor.uasset'
+[2022.05.07-11.47.26:905][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Levels/GEO_FloorBetween
+[2022.05.07-11.47.26:905][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_FloorBetween54A26B11407CD0D8E7692EAE03F8E26B.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Levels/GEO_FloorBetween.uasset'
+[2022.05.07-11.47.26:907][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Levels/GEO_FloorBetween
+[2022.05.07-11.47.26:908][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_FloorBetween17B86923414F8D3476F39B974525E7E0.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Levels/GEO_FloorBetween.uasset'
+[2022.05.07-11.47.26:910][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Levels/lambert1
+[2022.05.07-11.47.26:910][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/lambert123AE30F24F460C9ED0DFECB36EA851C2.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Levels/lambert1.uasset'
+[2022.05.07-11.47.26:934][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Levels/GEO_SecondFloor
+[2022.05.07-11.47.26:934][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_SecondFloorC9BD4A2841AC6E5CAC20D49AA0F4EB00.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Levels/GEO_SecondFloor.uasset'
+[2022.05.07-11.47.26:935][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Levels/GEO_SecondFloor
+[2022.05.07-11.47.26:936][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_SecondFloor4D243A544D48F8CEC3EB5AB674329560.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Levels/GEO_SecondFloor.uasset'
+[2022.05.07-11.47.26:958][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/MainStaircase/GEO_Balister01
+[2022.05.07-11.47.26:959][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Balister0194B4FBB94C079877206E8BA4EA681D35.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/MainStaircase/GEO_Balister01.uasset'
+[2022.05.07-11.47.26:962][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/MainStaircase/GEO_Balister01
+[2022.05.07-11.47.26:962][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Balister0172E4DDED48220EEBB97C66A6E2F32A4D.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/MainStaircase/GEO_Balister01.uasset'
+[2022.05.07-11.47.26:978][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/MainStaircase/GEO_Handrail01
+[2022.05.07-11.47.26:978][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Handrail01551EBBBA4AB912253B085C93169049AE.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/MainStaircase/GEO_Handrail01.uasset'
+[2022.05.07-11.47.26:980][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/MainStaircase/GEO_Handrail01
+[2022.05.07-11.47.26:981][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Handrail01A01EAC9C43783C53AFC4019AED9CA911.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/MainStaircase/GEO_Handrail01.uasset'
+[2022.05.07-11.47.26:995][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/MainStaircase/GEO_Handrail02
+[2022.05.07-11.47.26:995][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Handrail022EB72BBF47FBBD2862723F905E98020D.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/MainStaircase/GEO_Handrail02.uasset'
+[2022.05.07-11.47.26:997][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/MainStaircase/GEO_Handrail02
+[2022.05.07-11.47.26:998][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Handrail0204AE6FF84496F726A71D06A86BB6657E.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/MainStaircase/GEO_Handrail02.uasset'
+[2022.05.07-11.47.27:049][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/MainStaircase/GEO_NewelPost01
+[2022.05.07-11.47.27:049][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_NewelPost01AA7598574354A424C156D1B770B82118.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/MainStaircase/GEO_NewelPost01.uasset'
+[2022.05.07-11.47.27:050][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/MainStaircase/GEO_NewelPost01
+[2022.05.07-11.47.27:051][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_NewelPost017468BB3B49305FE0C9BA6AB127A37C28.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/MainStaircase/GEO_NewelPost01.uasset'
+[2022.05.07-11.47.27:075][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/MainStaircase/GEO_Staircase
+[2022.05.07-11.47.27:075][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_StaircaseB9A6DB68494C74B0F0181C91C765C19D.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/MainStaircase/GEO_Staircase.uasset'
+[2022.05.07-11.47.27:077][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/MainStaircase/GEO_Staircase
+[2022.05.07-11.47.27:078][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Staircase3817E15945121FD1F02A72A160A2533E.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/MainStaircase/GEO_Staircase.uasset'
+[2022.05.07-11.47.27:098][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/MainStaircase/GEO_WS_Staircase01
+[2022.05.07-11.47.27:098][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_WS_Staircase01CD51259044DE31300795218AA18D149F.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/MainStaircase/GEO_WS_Staircase01.uasset'
+[2022.05.07-11.47.27:100][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/MainStaircase/GEO_WS_Staircase01
+[2022.05.07-11.47.27:101][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_WS_Staircase019CFF134640610F44F17485B8D0D027D0.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/MainStaircase/GEO_WS_Staircase01.uasset'
+[2022.05.07-11.47.27:114][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Billiard01
+[2022.05.07-11.47.27:114][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_WF_Billiard01A9E616D24FB0EACA117D639F54ACE4C5.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Windowframes/GEO_WF_Billiard01.uasset'
+[2022.05.07-11.47.27:118][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Windowframes/GEO_WF_Billiard01
+[2022.05.07-11.47.27:119][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_WF_Billiard01AABA0259482AE5C66D8F2F82AF1CE9BE.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Windowframes/GEO_WF_Billiard01.uasset'
+[2022.05.07-11.47.27:133][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Small01
+[2022.05.07-11.47.27:133][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_WF_Small01F37389094F77AA05125EC892DEA225AC.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Windowframes/GEO_WF_Small01.uasset'
+[2022.05.07-11.47.27:134][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Windowframes/GEO_WF_Small01
+[2022.05.07-11.47.27:135][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_WF_Small01539C06EB44708551F143EC9BF6872B48.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Windowframes/GEO_WF_Small01.uasset'
+[2022.05.07-11.47.27:149][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Small02
+[2022.05.07-11.47.27:149][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_WF_Small0227ABA355472E59F7E271C69F88A5B00B.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Windowframes/GEO_WF_Small02.uasset'
+[2022.05.07-11.47.27:150][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Windowframes/GEO_WF_Small02
+[2022.05.07-11.47.27:151][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_WF_Small021397ADB9490E14EBE4CBE1A7B99C7919.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Windowframes/GEO_WF_Small02.uasset'
+[2022.05.07-11.47.27:171][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Windows/GEO_Window01_Frame
+[2022.05.07-11.47.27:171][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Window01_Frame50040DF24AE30B4230A391B6603722B7.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Windows/GEO_Window01_Frame.uasset'
+[2022.05.07-11.47.27:173][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Windows/GEO_Window01_Frame
+[2022.05.07-11.47.27:174][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Window01_FrameF989DFAE4461188FA27721BD070832C9.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Windows/GEO_Window01_Frame.uasset'
+[2022.05.07-11.47.27:187][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Windows/GEO_Window01_Glass
+[2022.05.07-11.47.27:187][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Window01_Glass5FB082CD48775894B7E82B94F462346A.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Windows/GEO_Window01_Glass.uasset'
+[2022.05.07-11.47.27:188][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Windows/GEO_Window01_Glass
+[2022.05.07-11.47.27:189][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Window01_GlassEB48A79A4327D2511763CE82F1FD7AD8.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Windows/GEO_Window01_Glass.uasset'
+[2022.05.07-11.47.27:203][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Windows/GEO_Window_Front01_Glass
+[2022.05.07-11.47.27:203][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Window_Front01_Glass512A281040026FEE55895EAA335CEB31.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Windows/GEO_Window_Front01_Glass.uasset'
+[2022.05.07-11.47.27:206][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Windows/GEO_Window_Front01_Glass
+[2022.05.07-11.47.27:207][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Window_Front01_GlassDD83B53C47509985F91937B665F97998.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Windows/GEO_Window_Front01_Glass.uasset'
+[2022.05.07-11.47.27:232][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Windows/GEO_Window_Front01_Metal
+[2022.05.07-11.47.27:232][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Window_Front01_MetalBA3208FF4D3D187367A6778D22E0CBD6.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Windows/GEO_Window_Front01_Metal.uasset'
+[2022.05.07-11.47.27:234][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Windows/GEO_Window_Front01_Metal
+[2022.05.07-11.47.27:235][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Window_Front01_MetalF2CA56A743536D27DD23D18F32E1D0ED.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Windows/GEO_Window_Front01_Metal.uasset'
+[2022.05.07-11.47.27:247][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Windows/GEO_Window_Front02_Glass
+[2022.05.07-11.47.27:247][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Window_Front02_Glass41D64C474061CFA6020757B1CE5ED513.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Windows/GEO_Window_Front02_Glass.uasset'
+[2022.05.07-11.47.27:249][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Windows/GEO_Window_Front02_Glass
+[2022.05.07-11.47.27:249][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Window_Front02_GlassE226837043A6869ADB3176BB003F48D5.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Windows/GEO_Window_Front02_Glass.uasset'
+[2022.05.07-11.47.27:263][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Windows/GEO_Window_Front02_Metal
+[2022.05.07-11.47.27:263][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Window_Front02_Metal3D58246546603F4BC9BC25843DD07F7E.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Windows/GEO_Window_Front02_Metal.uasset'
+[2022.05.07-11.47.27:266][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Walls/Windows/GEO_Window_Front02_Metal
+[2022.05.07-11.47.27:267][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Window_Front02_MetalFF440E0C4E379D2D13FDE58D1C8EFD40.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Walls/Windows/GEO_Window_Front02_Metal.uasset'
+[2022.05.07-11.47.27:269][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/GEO_Window01_Glass
+[2022.05.07-11.47.27:269][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Window01_GlassEF47369A48D9608FE2560FAA0AC98F27.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/GEO_Window01_Glass.uasset'
+[2022.05.07-11.47.27:270][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/GEO_Window01_Frame
+[2022.05.07-11.47.27:270][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Window01_Frame779A598A46636E64C9178A987117AB8F.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/GEO_Window01_Frame.uasset'
+[2022.05.07-11.47.27:272][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/GEO_WF_Billiard01
+[2022.05.07-11.47.27:272][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_WF_Billiard01ABA25CFF44ED25CC5E0A97A607DF874D.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/GEO_WF_Billiard01.uasset'
+[2022.05.07-11.47.27:273][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/GEO_StdDoor01
+[2022.05.07-11.47.27:273][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_StdDoor01F9061366426CA4B0A7BB93933CE986B6.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/GEO_StdDoor01.uasset'
+[2022.05.07-11.47.27:276][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/GEO_SecondFloorLayout
+[2022.05.07-11.47.27:276][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_SecondFloorLayoutC53A6009444950F47C406DAF86A9F7FD.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/GEO_SecondFloorLayout.uasset'
+[2022.05.07-11.47.27:279][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/GEO_PocketDoor01
+[2022.05.07-11.47.27:279][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_PocketDoor016541581E4434903DF303E4B983D2A41A.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/GEO_PocketDoor01.uasset'
+[2022.05.07-11.47.27:280][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/GEO_FrontDoor01
+[2022.05.07-11.47.27:280][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_FrontDoor01B0D41F5246111FC9BDC2F194949AC772.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/GEO_FrontDoor01.uasset'
+[2022.05.07-11.47.27:282][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/GEO_FirstFloor
+[2022.05.07-11.47.27:282][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_FirstFloorC845A04345BCFD51F06B02A2434CE442.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/GEO_FirstFloor.uasset'
+[2022.05.07-11.47.27:283][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/GEO_DF_Front04
+[2022.05.07-11.47.27:283][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Front042F1F8DB746512E7C3B88DA8092C97138.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/GEO_DF_Front04.uasset'
+[2022.05.07-11.47.27:285][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/GEO_DF_Front03
+[2022.05.07-11.47.27:285][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Front0355BF5F7F4CEFBFFD142885890D046F56.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/GEO_DF_Front03.uasset'
+[2022.05.07-11.47.27:286][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/GEO_DF_Front02
+[2022.05.07-11.47.27:286][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Front0229EF4B2B47C06FD538A211BF3E3C443A.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/GEO_DF_Front02.uasset'
+[2022.05.07-11.47.27:289][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/GEO_DF_Front01
+[2022.05.07-11.47.27:289][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_DF_Front01998B3AA042B2E7C33A00E7A99C1284C6.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/GEO_DF_Front01.uasset'
+[2022.05.07-11.47.27:290][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/EXP_LowerFloor
+[2022.05.07-11.47.27:290][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/EXP_LowerFloor98F5773D489DA37AA6A9E0AF682C3F9D.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/EXP_LowerFloor.uasset'
+[2022.05.07-11.47.27:292][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/EXP_DF_Front02
+[2022.05.07-11.47.27:292][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/EXP_DF_Front025BC5F51248B8FB149D23239CC831B11F.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/EXP_DF_Front02.uasset'
+[2022.05.07-11.47.27:293][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/Structural/Door" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Door.uasset" SILENT=true
+[2022.05.07-11.47.27:295][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Door
+[2022.05.07-11.47.27:295][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/Door10801D47472CC65E4847079548C8132A.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Door.uasset'
+[2022.05.07-11.47.27:297][946]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Levels/GEO_Floor
+[2022.05.07-11.47.27:297][946]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_Floor4B8933884C37B419F84705B7C682D893.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Levels/GEO_Floor.uasset'
+[2022.05.07-11.47.27:348][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.07-11.47.27:354][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.07-11.47.27:358][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.05.07-11.47.27:369][946]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Windows/GEO_Window_Front02_Metal.GEO_Window_Front02_Metal
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Windows/GEO_Window_Front02_Glass.GEO_Window_Front02_Glass
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Windows/GEO_Window_Front01_Metal.GEO_Window_Front01_Metal
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Windows/GEO_Window_Front01_Glass.GEO_Window_Front01_Glass
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Windows/GEO_Window01_Glass.GEO_Window01_Glass
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Windows/GEO_Window01_Frame.GEO_Window01_Frame
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Windowframes/GEO_WF_Small02.GEO_WF_Small02
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Windowframes/GEO_WF_Small01.GEO_WF_Small01
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Windowframes/GEO_WF_Billiard01.GEO_WF_Billiard01
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/MainStaircase/GEO_WS_Staircase01.GEO_WS_Staircase01
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/MainStaircase/GEO_Staircase.GEO_Staircase
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/MainStaircase/GEO_NewelPost01.GEO_NewelPost01
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/MainStaircase/GEO_Handrail02.GEO_Handrail02
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/MainStaircase/GEO_Handrail01.GEO_Handrail01
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/MainStaircase/GEO_Balister01.GEO_Balister01
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Levels/GEO_SecondFloor.GEO_SecondFloor
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Levels/GEO_FloorBetween.GEO_FloorBetween
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Levels/GEO_FirstFloor.GEO_FirstFloor
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Doors/GEO_ThickDoor01.GEO_ThickDoor01
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Doors/GEO_StdDoor01.GEO_StdDoor01
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Doors/GEO_PocketDoor01.GEO_PocketDoor01
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Doors/GEO_FrontDoor01.GEO_FrontDoor01
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Front05.GEO_DF_Front05
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Front04.GEO_DF_Front04
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Front03.GEO_DF_Front03
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Front02.GEO_DF_Front02
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Front01.GEO_DF_Front01
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard02.GEO_DF_Billiard02
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Walls/Doorframes/GEO_DF_Billiard01.GEO_DF_Billiard01
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Levels/GEO_Floor.GEO_Floor
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating Material /Game/Assets/Meshes/Structural/Door.Door
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Structural/EXP_DF_Front02.EXP_DF_Front02
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Structural/GEO_DF_Front01.GEO_DF_Front01
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Structural/GEO_Window01_Frame.GEO_Window01_Frame
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Structural/GEO_DF_Front02.GEO_DF_Front02
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Structural/GEO_DF_Front03.GEO_DF_Front03
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Structural/GEO_DF_Front04.GEO_DF_Front04
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Structural/GEO_FirstFloor.GEO_FirstFloor
+[2022.05.07-11.47.27:369][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Structural/GEO_FrontDoor01.GEO_FrontDoor01
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Structural/GEO_PocketDoor01.GEO_PocketDoor01
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Structural/GEO_StdDoor01.GEO_StdDoor01
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Structural/GEO_WF_Billiard01.GEO_WF_Billiard01
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/Structural/GEO_Window01_Glass.GEO_Window01_Glass
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Billiard01.GEO_DF_Billiard01
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Billiard02.GEO_DF_Billiard02
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Front01.GEO_DF_Front01
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Front02.GEO_DF_Front02
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Front03.GEO_DF_Front03
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Front04.GEO_DF_Front04
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Doorframes/GEO_DF_Front05.GEO_DF_Front05
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Doors/GEO_FrontDoor01.GEO_FrontDoor01
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Doors/GEO_PocketDoor01.GEO_PocketDoor01
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Doors/GEO_StdDoor01.GEO_StdDoor01
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Doors/GEO_ThickDoor01.GEO_ThickDoor01
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating Material /Game/Assets/Meshes/Structural/lambert1.lambert1
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Levels/GEO_FirstFloor.GEO_FirstFloor
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Levels/GEO_FloorBetween.GEO_FloorBetween
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating Material /Game/Assets/Meshes/Structural/Levels/lambert1.lambert1
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Levels/GEO_SecondFloor.GEO_SecondFloor
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/MainStaircase/GEO_Balister01.GEO_Balister01
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/MainStaircase/GEO_Handrail01.GEO_Handrail01
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/MainStaircase/GEO_Handrail02.GEO_Handrail02
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/MainStaircase/GEO_NewelPost01.GEO_NewelPost01
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/MainStaircase/GEO_Staircase.GEO_Staircase
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/MainStaircase/GEO_WS_Staircase01.GEO_WS_Staircase01
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Billiard01.GEO_WF_Billiard01
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Small01.GEO_WF_Small01
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Small02.GEO_WF_Small02
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Windows/GEO_Window01_Frame.GEO_Window01_Frame
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Windows/GEO_Window01_Glass.GEO_Window01_Glass
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Windows/GEO_Window_Front01_Glass.GEO_Window_Front01_Glass
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Windows/GEO_Window_Front01_Metal.GEO_Window_Front01_Metal
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Windows/GEO_Window_Front02_Glass.GEO_Window_Front02_Glass
+[2022.05.07-11.47.27:370][946]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Windows/GEO_Window_Front02_Metal.GEO_Window_Front02_Metal
+[2022.05.07-11.48.31:044][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.05.07-11.48.41:081][776]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.07-11.49.12:204][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.07-11.49.19:648][754]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.07-11.49.19:655][754]LogUObjectGlobals: Force Deleting 29 Package(s):
+	Asset Name: /Game/Assets/Meshes/Walls/Windows/GEO_Window_Front02_Metal.GEO_Window_Front02_Metal
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Assets/Meshes/Walls/Windows/GEO_Window_Front02_Glass.GEO_Window_Front02_Glass
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Assets/Meshes/Walls/Windows/GEO_Window_Front01_Metal.GEO_Window_Front01_Metal
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Assets/Meshes/Walls/Windows/GEO_Window_Front01_Glass.GEO_Window_Front01_Glass
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Assets/Meshes/Walls/Windows/GEO_Window01_Glass.GEO_Window01_Glass
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Assets/Meshes/Walls/Windows/GEO_Window01_Frame.GEO_Window01_Frame
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Assets/Meshes/Walls/Windowframes/GEO_WF_Small02.GEO_WF_Small02
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Assets/Meshes/Walls/Windowframes/GEO_WF_Small01.GEO_WF_Small01
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Assets/Meshes/Walls/Windowframes/GEO_WF_Billiard01.GEO_WF_Billiard01
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Assets/Meshes/Walls/MainStaircase/GEO_WS_Staircase01.GEO_WS_Staircase01
+	Asset Type: ObjectRedirector
+[2022.05.07-11.49.19:883][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.05.07-11.49.19:888][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.07-11.49.19:893][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.05.07-11.49.54:239][718]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Meshes/Structural/Windows/GEO_Window01_Frame.GEO_Window01_Frame
+[2022.05.07-11.49.54:328][718]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.07-11.49.57:261][814]LogSlate: Window 'GEO_Window01_Frame' being destroyed
+[2022.05.07-11.49.57:267][814]LogSlate: Window 'GEO_Window01_Frame' being destroyed
+[2022.05.07-11.49.57:293][814]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-11.49.57:294][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-11.50.45:879][627]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Small02.GEO_WF_Small02
+[2022.05.07-11.50.45:961][627]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.07-11.50.56:994][ 38]LogSlate: Window 'GEO_WF_Small02' being destroyed
+[2022.05.07-11.50.57:000][ 38]LogSlate: Window 'GEO_WF_Small02' being destroyed
+[2022.05.07-11.50.57:027][ 38]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-11.50.57:027][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-11.51.49:874][603]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Small01.GEO_WF_Small01
+[2022.05.07-11.51.49:874][603]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Small01.GEO_WF_Small01
+[2022.05.07-11.51.49:874][603]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Small01.GEO_WF_Small01 as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_67
+[2022.05.07-11.51.52:371][833]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Small01.GEO_WF_Small01
+[2022.05.07-11.51.52:371][833]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Small01.GEO_WF_Small01
+[2022.05.07-11.51.52:372][833]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Small01.GEO_WF_Small01 as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_186
+[2022.05.07-11.52.04:793][597]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.52.09:323][963]Cmd: ACTOR BAKEPREPIVOT
+[2022.05.07-11.52.13:462][175]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.52.38:333][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-11.52.38:340][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.05.07-11.52.38:388][253]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-11.52.38:389][253]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevel51FD63A64A1CF53B543E0A933DE9EA38.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-11.52.38:400][253]LogFileHelpers: No new changes to save!
+[2022.05.07-11.52.38:409][253]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-11.52.38:409][253]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-11.53.12:729][242]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.53.30:565][650]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.54.25:828][640]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.54.29:993][852]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.55.16:665][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-11.55.16:670][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.07-11.55.16:717][237]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-11.55.16:718][237]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevelC46849794CABE401B5F7B4913E47DBF6.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-11.55.16:729][237]LogFileHelpers: No new changes to save!
+[2022.05.07-11.55.16:738][237]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-11.55.16:738][237]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-11.55.52:053][ 64]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.55.57:957][448]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.56.24:799][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-11.56.24:804][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.07-11.56.24:851][696]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-11.56.24:852][696]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevelBDD72E214AEF5CA2112F7B817AFC8627.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-11.56.24:862][696]LogFileHelpers: No new changes to save!
+[2022.05.07-11.56.24:871][696]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-11.56.24:871][696]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-11.57.19:125][953]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.57.37:750][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-11.57.37:755][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.07-11.57.37:802][895]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-11.57.37:802][895]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevel4B5B0AB44D3295FFD90B3891C91FA4BE.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-11.57.37:813][895]LogFileHelpers: No new changes to save!
+[2022.05.07-11.57.37:822][895]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-11.57.37:822][895]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-11.58.46:465][ 12]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.59.02:418][434]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-11.59.59:934][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-11.59.59:939][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.07-11.59.59:986][243]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-11.59.59:987][243]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevel6C29C4D5486413904B11249BE30DD50A.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-11.59.59:998][243]LogFileHelpers: No new changes to save!
+[2022.05.07-12.00.00:006][243]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-12.00.00:006][243]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-12.00.48:468][833]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-12.00.53:683][206]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-12.01.42:982][602]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-12.01.53:569][126]Cmd: TRANSACTION UNDO
+[2022.05.07-12.01.53:569][126]LogEditorTransaction: Undo Move Elements
+[2022.05.07-12.02.01:370][511]Cmd: TRANSACTION UNDO
+[2022.05.07-12.02.01:370][511]LogEditorTransaction: Undo Move Elements
+[2022.05.07-12.02.17:384][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-12.02.17:389][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.07-12.02.17:437][311]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-12.02.17:438][311]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevelF1BE5A5B4FF4C4889E52E2BA890AA846.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-12.02.17:449][311]LogFileHelpers: No new changes to save!
+[2022.05.07-12.02.17:463][311]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-12.02.17:463][311]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-12.02.37:816][105]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-12.03.19:536][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-12.03.19:541][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.07-12.03.19:588][870]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-12.03.19:589][870]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevelC82CC0BE4AFA21F0B2472A908DA5AF66.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-12.03.19:600][870]LogFileHelpers: No new changes to save!
+[2022.05.07-12.03.19:609][870]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-12.03.19:609][870]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-12.04.04:179][443]LogMetaData: Removing '/Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Dining01.GEO_WF_Dining01' ref from Metadata '/Game/Assets/Meshes/DiningRoom/GEO_WF_Dining01.PackageMetaData'
+[2022.05.07-12.04.04:284][443]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Dining01
+[2022.05.07-12.04.04:284][443]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_WF_Dining0119052B524F8259FE5E628D9D66E71607.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/Structural/Windowframes/GEO_WF_Dining01.uasset'
+[2022.05.07-12.04.04:286][443]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/DiningRoom/GEO_WF_Dining01
+[2022.05.07-12.04.04:286][443]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_WF_Dining01103223F5494904A8FC7A2FA99BBBA856.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/DiningRoom/GEO_WF_Dining01.uasset'
+[2022.05.07-12.04.04:307][443]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.07-12.04.04:307][443]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Meshes/DiningRoom/GEO_WF_Dining01.GEO_WF_Dining01
+[2022.05.07-12.04.04:307][443]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Dining01.GEO_WF_Dining01
+[2022.05.07-12.04.10:640][172]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Dining01.GEO_WF_Dining01
+[2022.05.07-12.04.10:640][172]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Dining01.GEO_WF_Dining01
+[2022.05.07-12.04.10:641][172]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Dining01.GEO_WF_Dining01 as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_220
+[2022.05.07-12.04.20:272][977]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Dining01.GEO_WF_Dining01
+[2022.05.07-12.04.20:272][977]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Dining01.GEO_WF_Dining01
+[2022.05.07-12.04.20:273][977]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Dining01.GEO_WF_Dining01 as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_222
+[2022.05.07-12.04.29:167][587]Cmd: DELETE
+[2022.05.07-12.04.29:168][587]Cmd: ACTOR DELETE
+[2022.05.07-12.04.29:173][587]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.07-12.04.29:183][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.07-12.04.29:185][587]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2022.05.07-12.04.31:914][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Dining01.GEO_WF_Dining01
+[2022.05.07-12.04.31:914][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Dining01.GEO_WF_Dining01
+[2022.05.07-12.04.31:914][748]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Dining01.GEO_WF_Dining01 as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_224
+[2022.05.07-12.04.33:716][932]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Dining01.GEO_WF_Dining01
+[2022.05.07-12.04.33:717][932]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Dining01.GEO_WF_Dining01
+[2022.05.07-12.04.33:717][932]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/Structural/Windowframes/GEO_WF_Dining01.GEO_WF_Dining01 as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_225
+[2022.05.07-12.04.40:900][421]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-12.04.52:844][160]Cmd: ACTOR BAKEPREPIVOT
+[2022.05.07-12.05.01:430][635]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-12.05.53:507][276]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-12.06.05:319][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-12.06.05:324][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.07-12.06.05:373][187]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-12.06.05:374][187]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevel1D07E35D461666862D44249ACB29AAD6.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-12.06.05:384][187]LogFileHelpers: No new changes to save!
+[2022.05.07-12.06.05:393][187]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-12.06.05:393][187]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-12.06.06:981][272]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-12.07.37:186][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-12.07.37:192][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.07-12.07.37:239][301]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-12.07.37:240][301]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevelFF22906E44EC1E60CE92B68EB8D57C75.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-12.07.37:251][301]LogFileHelpers: No new changes to save!
+[2022.05.07-12.07.37:265][301]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-12.07.37:265][301]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-12.08.03:199][421]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-12.08.12:447][167]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-12.08.48:332][599]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-12.09.32:238][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-12.09.32:243][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.07-12.09.32:293][678]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-12.09.32:293][678]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevel5006CBB54DC6F94A765F8FAB8BE31267.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-12.09.32:304][678]LogFileHelpers: No new changes to save!
+[2022.05.07-12.09.32:313][678]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-12.09.32:313][678]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-12.09.37:028][942]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.07-12.09.37:035][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.07-12.09.37:035][942]PIE: New page: PIE session: MainLevel (May 6, 2022, 10:09:37 PM)
+[2022.05.07-12.09.37:038][942]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.05.07-12.09.37:038][942]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.07-12.09.37:038][942]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2022.05.07-12.09.37:059][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020635s)
+[2022.05.07-12.09.37:059][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.020701s)
+[2022.05.07-12.09.37:059][942]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.07-12.09.37:059][942]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.07-12.09.37:059][942]LogAIModule: Creating AISystem for world MainLevel
+[2022.05.07-12.09.37:060][942]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2022.05.07-12.09.37:064][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.07-12.09.37:065][942]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.07-12.09.37:065][942]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.07-12.09.37:065][942]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.07-12.09.37:065][942]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.07-12.09.37:065][942]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.07-12.09.37:065][942]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.07-12.09.37:065][942]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.07-12.09.37:065][942]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.07-12.09.37:065][942]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.07-12.09.37:065][942]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.07-12.09.37:065][942]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.07-12.09.37:065][942]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.07-12.09.37:067][942]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.07-12.09.37:086][942]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2022.05.07-12.09.37:086][942]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.07-12.09.37:086][942]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.07-12.09.37:086][942]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.07-12.09.37:087][942]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.05.07-12.09.37:087][942]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.05.07-12.09.37:088][942]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.05.07-12.09.37:088][942]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.05.07-12.09.37:088][942]LogInit: FAudioDevice initialized.
+[2022.05.07-12.09.37:088][942]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainLevel'.
+[2022.05.07-12.09.37:100][942]LogLoad: Game class is 'BP_GameMode_C'
+[2022.05.07-12.09.37:105][942]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.05.07-05.09.37
+[2022.05.07-12.09.37:105][942]LogWorld: Bringing up level for play took: 0.004946
+[2022.05.07-12.09.37:107][942]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.05.07-12.09.37:122][942]PIE: Server logged in
+[2022.05.07-12.09.37:123][942]PIE: Play in editor total start time 0.088 seconds.
+[2022.05.07-12.10.43:836][154]LogCharacterMovement: BP_Character_Pawn_C_0 is stuck and failed to move! Velocity: X=27.70 Y=-32.37 Z=0.00 Location: X=925.65 Y=1802.79 Z=271.53 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:3.471 Actor:StaticMeshActor_191 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2022.05.07-12.10.55:617][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-12.10.55:617][704]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2022.05.07-12.10.55:617][704]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-12.10.55:618][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-12.10.55:640][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-12.10.55:642][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-12.10.55:646][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-12.10.55:648][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.05.07-12.10.55:649][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.05.07-12.10.55:655][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.07-12.10.56:019][706]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.05.07-12.11.52:023][339]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.07-12.13.03:856][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-12.13.03:860][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.07-12.13.03:913][555]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2022.05.07-12.13.03:914][555]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MainLevel8B130EBC4C67F4A852670D8EC5B38AE6.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap'
+[2022.05.07-12.13.03:924][555]LogFileHelpers: No new changes to save!
+[2022.05.07-12.13.03:933][555]AssetCheck: New page: Asset Save: MainLevel
+[2022.05.07-12.13.03:933][555]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2022.05.07-12.13.07:310][825]MapCheck: New page: Map Check
+[2022.05.07-12.13.07:321][825]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.07-12.13.07:323][825]LightingResults: New page: Lighting Build - May 6, 2022, 10:13:07 PM
+[2022.05.07-12.13.07:353][825]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.05.07-12.13.07:613][825]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.05.07-12.13.07:622][825]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.05.07-12.13.08:655][825]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.05.07-12.13.08:655][825]LogSwarmInterface: [TryOpenConnection] Local Process ID is 36916
+[2022.05.07-12.13.15:873][825]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.05.07-12.13.15:873][825]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.05.07-12.13.15:873][825]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.05.07-12.13.15:873][825]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.05.07-12.13.15:873][825]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.05.07-12.13.16:218][825]LogEditorBuildUtils: Build time 0:08
+[2022.05.07-12.13.16:226][825]LogShaderCompilers: Display: ================================================
+[2022.05.07-12.13.16:226][825]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.07-12.13.16:226][825]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.07-12.13.16:226][825]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.07-12.13.16:226][825]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.05.07-12.13.16:226][825]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.07-12.13.16:226][825]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.05.07-12.13.16:226][825]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.05.07-12.13.16:226][825]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.05.07-12.13.16:226][825]LogShaderCompilers: Display: ================================================
+[2022.05.07-12.13.16:255][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.07-12.13.18:581][957]LightingResults: Warning: GEO_PoolCue01 Object has wrapping UVs.
+[2022.05.07-12.13.18:581][957]LightingResults: Warning: GEO_PoolCue01 Object has wrapping UVs.
+[2022.05.07-12.13.18:836][972]LightingResults: Warning: GEO_PoolCue01 Object has wrapping UVs.
+[2022.05.07-12.13.19:281][998]LightingResults: Warning: GEO_NewelPost01 Object has overlapping UVs.
+[2022.05.07-12.13.19:281][998]LightingResults: GEO_NewelPost01 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.05.07-12.13.19:351][  2]LightingResults: Warning: GEO_HighbackChair01 Object has wrapping UVs.
+[2022.05.07-12.13.19:418][  6]LightingResults: Warning: GEO_NewelPost01 Object has overlapping UVs.
+[2022.05.07-12.13.19:418][  6]LightingResults: GEO_NewelPost01 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.05.07-12.13.20:101][ 46]LightingResults: Warning: GEO_NewelPost01 Object has overlapping UVs.
+[2022.05.07-12.13.20:101][ 46]LightingResults: GEO_NewelPost01 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.05.07-12.13.20:101][ 46]LightingResults: Warning: GEO_NewelPost01 Object has overlapping UVs.
+[2022.05.07-12.13.20:101][ 46]LightingResults: GEO_NewelPost01 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.05.07-12.13.20:377][ 62]LightingResults: Warning: GEO_NewelPost01 Object has overlapping UVs.
+[2022.05.07-12.13.20:377][ 62]LightingResults: GEO_NewelPost01 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.05.07-12.13.21:147][107]LightingResults: Warning: GEO_PoolCue01 Object has wrapping UVs.
+[2022.05.07-12.13.21:182][109]LightingResults: Warning: GEO_NewelPost01 Object has overlapping UVs.
+[2022.05.07-12.13.21:182][109]LightingResults: GEO_NewelPost01 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.05.07-12.13.21:370][120]LightingResults: Warning: GEO_NewelPost01 Object has overlapping UVs.
+[2022.05.07-12.13.21:370][120]LightingResults: GEO_NewelPost01 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.05.07-12.13.21:415][123]LightingResults: Warning: GEO_PoolCue01 Object has wrapping UVs.
+[2022.05.07-12.13.21:548][131]LightingResults: Warning: GEO_PoolCue01 Object has wrapping UVs.
+[2022.05.07-12.13.21:835][149]LightingResults: Warning: GEO_NewelPost01 Object has overlapping UVs.
+[2022.05.07-12.13.21:835][149]LightingResults: GEO_NewelPost01 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.05.07-12.13.22:070][167]Job is a success!
+[2022.05.07-12.13.22:310][168]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2022.05.07-12.13.22:310][168]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.05.07-12.13.22:310][168]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.05.07-12.13.22:310][168]LogVolumetricLightmapImport:      Bricks at depth
+[2022.05.07-12.13.22:310][168]LogVolumetricLightmapImport:          0: 4.5% covering 100.0% of volume
+[2022.05.07-12.13.22:310][168]LogVolumetricLightmapImport:          1: 4.5% covering 1.6% of volume
+[2022.05.07-12.13.22:310][168]LogVolumetricLightmapImport:          2: 90.9% covering 0.5% of volume
+[2022.05.07-12.13.22:310][168]LogVolumetricLightmapImport:      Bricks in each level
+[2022.05.07-12.13.22:310][168]LogVolumetricLightmapImport:          MainLevel 			 22 bricks 	 100.0% (Persistent Level)
+[2022.05.07-12.13.22:506][168]LogTexture: Display: Building textures: /Game/Maps/MainLevel_BuiltData.MainLevel_BuiltData:SkyOcclusion1_1 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.05.07-12.13.22:518][168]LogTexture: Display: Building textures: /Game/Maps/MainLevel_BuiltData.MainLevel_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.05.07-12.13.22:542][168]LogTexture: Display: Building textures: /Game/Maps/MainLevel_BuiltData.MainLevel_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.05.07-12.13.22:562][168]LogTexture: Display: Building textures: /Game/Maps/MainLevel_BuiltData.MainLevel_BuiltData:SkyOcclusion1_2 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.05.07-12.13.22:572][168]LogTexture: Display: Building textures: /Game/Maps/MainLevel_BuiltData.MainLevel_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.05.07-12.13.22:594][168]LogTexture: Display: Building textures: /Game/Maps/MainLevel_BuiltData.MainLevel_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.05.07-12.13.22:702][168]LogTexture: Display: Building textures: /Game/Maps/MainLevel_BuiltData.MainLevel_BuiltData:ShadowMapTexture2D_0 (BGRA8, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.05.07-12.13.22:764][168]Lightmass on THEODOPOLIS: 5.43 sec total, 315 ms importing, 84 ms setup, 713 ms photons, 4.29 sec processing, 0 us extra exporting [250/250 mappings]. Threads: 1:04 min total, 45.4 sec processing.
+[2022.05.07-12.13.22:774][168]LogStaticLightingSystem: MainLevel_BuiltData storing lightmap data for 250 meshes in 4 LightmapResourceClusters (62.5 Meshes per cluster).
+[2022.05.07-12.13.22:786][168]LogMaterial: Display: Material /Game/Assets/Meshes/Structural/Levels/lambert1.lambert1 needed to have new flag set bUsedWithStaticLighting !
+[2022.05.07-12.13.22:791][168]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8241EC12DF28FAFDB64BBCE4BA188396C606C275), compiling. 
+[2022.05.07-12.13.22:905][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.07-12.13.22:913][168]LogStaticLightingSystem: Illumination: 15.5 sec (209 ms encoding lightmaps, 91 ms encoding shadowmaps)
+[2022.05.07-12.13.22:913][168]LogStaticLightingSystem: Lightmap texture memory:  5.5 MB (5.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.05.07-12.13.22:913][168]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.05.07-12.13.23:891][168]DumpUnbuiltLightIteractions
+[2022.05.07-12.13.23:891][168]Lights with unbuilt interactions: 0
+[2022.05.07-12.13.23:891][168]
+[2022.05.07-12.13.23:891][168]Primitives with unbuilt interactions: 0
