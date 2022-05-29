@@ -1,0 +1,1499 @@
+﻿Log file open, 05/28/22 16:51:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=34984)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: AfterlifeManor
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19505902"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.0-19505902+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/AfterlifeManor.uproject -EpicPortal -epicusername=Current69 -epicuserid=47cf735857704277ad1cb9f4e65ff660 -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 3700X 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="ca53961c4178b18f79edfc8359edc1b7"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.484974
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-25A947484168839A81D8E5B56CAA582D
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Build: ++UE5+Release-5.0-CL-19505902
+LogInit: Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Mar 25 2022 04:05:33
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=Current69 -epicuserid=47cf735857704277ad1cb9f4e65ff660 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/UE_5.0/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.05.28-23.51.40:321][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.05.28-23.51.40:321][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.05.28-23.51.40:321][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.05.28-23.51.40:322][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.05.28-23.51.40:322][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.05.28-23.51.40:322][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.05.28-23.51.40:330][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.05.28-23.51.40:330][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.05.28-23.51.40:330][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.05.28-23.51.40:330][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.05.28-23.51.40:330][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.05.28-23.51.40:330][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.05.28-23.51.40:330][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.05.28-23.51.40:330][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.05.28-23.51.40:330][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.05.28-23.51.40:330][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.05.28-23.51.40:330][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.05.28-23.51.40:374][  0]LogD3D12RHI: Aftermath initialized
+[2022.05.28-23.51.40:374][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.05.28-23.51.40:885][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1060 6GB (Max supported Feature Level 12_1, shader model 6.6)
+[2022.05.28-23.51.40:886][  0]LogD3D12RHI: Adapter has 6052MB of dedicated video memory, 0MB of dedicated system memory, and 16359MB of shared system memory, 2 output[s]
+[2022.05.28-23.51.41:027][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.05.28-23.51.41:027][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16359MB of shared system memory, 0 output[s]
+[2022.05.28-23.51.41:031][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.05.28-23.51.41:031][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.28-23.51.41:031][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.05.28-23.51.41:031][  0]LogHAL: Display: Platform has ~ 32 GB [34307809280 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.28-23.51.41:031][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.05.28-23.51.41:031][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.05.28-23.51.41:031][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.28-23.51.41:031][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.05.28-23.51.41:032][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/Config/WindowsEditor/Editor.ini]
+[2022.05.28-23.51.41:032][  0]LogInit: Computer: THEODOPOLIS
+[2022.05.28-23.51.41:032][  0]LogInit: User: bhome
+[2022.05.28-23.51.41:032][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.05.28-23.51.41:032][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.28-23.51.41:032][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2022.05.28-23.51.41:032][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.05.28-23.51.41:032][  0]LogMemory: Process Physical Memory: 281.08 MB used, 290.24 MB peak
+[2022.05.28-23.51.41:032][  0]LogMemory: Process Virtual Memory: 246.56 MB used, 246.56 MB peak
+[2022.05.28-23.51.41:032][  0]LogMemory: Physical Memory: 24649.03 MB used,  8069.45 MB free, 32718.48 MB total
+[2022.05.28-23.51.41:032][  0]LogMemory: Virtual Memory: 50470.34 MB used,  6342.01 MB free, 56812.35 MB total
+[2022.05.28-23.51.41:032][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.05.28-23.51.41:041][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.28-23.51.41:061][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.05.28-23.51.41:061][  0]LogInit: Using OS detected language (en-US).
+[2022.05.28-23.51.41:061][  0]LogInit: Using OS detected locale (en-US).
+[2022.05.28-23.51.41:067][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.05.28-23.51.41:240][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.28-23.51.41:299][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.05.28-23.51.41:299][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.05.28-23.51.41:299][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2022.05.28-23.51.41:299][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.05.28-23.51.41:393][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.28-23.51.41:393][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.28-23.51.41:486][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.05.28-23.51.41:491][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.05.28-23.51.41:491][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.05.28-23.51.41:658][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.05.28-23.51.41:658][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.05.28-23.51.41:658][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.05.28-23.51.41:658][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.05.28-23.51.41:658][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.05.28-23.51.41:658][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.05.28-23.51.41:658][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.05.28-23.51.41:658][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.05.28-23.51.41:658][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.05.28-23.51.41:658][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.05.28-23.51.41:658][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.05.28-23.51.41:658][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.05.28-23.51.41:658][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.05.28-23.51.41:658][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.05.28-23.51.41:761][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.05.28-23.51.41:772][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.05.28-23.51.41:799][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.05.28-23.51.41:840][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.05.28-23.51.41:840][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.05.28-23.51.41:883][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2022.05.28-23.51.41:883][  0]LogD3D12RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.28-23.51.41:883][  0]LogWindows: EnumDisplayDevices:
+[2022.05.28-23.51.41:883][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2022.05.28-23.51.41:883][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2022.05.28-23.51.41:884][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.05.28-23.51.41:884][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.05.28-23.51.41:884][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.05.28-23.51.41:884][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2022.05.28-23.51.41:884][  0]LogD3D12RHI:   Driver Version: 512.59 (internal:30.0.15.1259, unified:512.59)
+[2022.05.28-23.51.41:884][  0]LogD3D12RHI:      Driver Date: 4-20-2022
+[2022.05.28-23.51.41:884][  0]LogRHI: Texture pool is 3328 MB (70% of 4755 MB)
+[2022.05.28-23.51.41:884][  0]LogD3D12RHI: Async texture creation enabled
+[2022.05.28-23.51.41:884][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.05.28-23.51.41:908][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.05.28-23.51.41:915][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/AfterlifeManor.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Intermediate/TurnkeyReport_0.log" -log="C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Intermediate/TurnkeyLog_0.log" -project="C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/AfterlifeManor.uproject"  -platform=all'
+[2022.05.28-23.51.41:915][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/UE_5.0/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/AfterlifeManor.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Intermediate/TurnkeyReport_0.log" -log="C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Intermediate/TurnkeyLog_0.log" -project="C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/AfterlifeManor.uproject"  -platform=all" ]
+[2022.05.28-23.51.41:957][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.05.28-23.51.41:971][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.05.28-23.51.41:971][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.05.28-23.51.41:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.28-23.51.41:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.28-23.51.41:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.28-23.51.41:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.28-23.51.41:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.28-23.51.41:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.28-23.51.41:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.28-23.51.41:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.28-23.51.41:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.28-23.51.41:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.28-23.51.42:045][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.05.28-23.51.42:045][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.05.28-23.51.42:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.28-23.51.42:050][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.28-23.51.42:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.28-23.51.42:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.05.28-23.51.42:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.28-23.51.42:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.28-23.51.42:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.05.28-23.51.42:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.05.28-23.51.42:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.05.28-23.51.42:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.28-23.51.42:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.28-23.51.42:068][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.05.28-23.51.42:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.28-23.51.42:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.05.28-23.51.42:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.28-23.51.42:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.28-23.51.42:068][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.05.28-23.51.42:078][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.28-23.51.42:080][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.05.28-23.51.42:080][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.05.28-23.51.42:080][  0]LogTargetPlatformManager:   ADPCM
+[2022.05.28-23.51.42:080][  0]LogTargetPlatformManager:   PCM
+[2022.05.28-23.51.42:084][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.05.28-23.51.42:084][  0]LogTargetPlatformManager:   BINKA
+[2022.05.28-23.51.42:084][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.05.28-23.51.42:084][  0]LogTargetPlatformManager:   OGG
+[2022.05.28-23.51.42:084][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.05.28-23.51.42:084][  0]LogTargetPlatformManager:   OPUS
+[2022.05.28-23.51.42:148][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.05.28-23.51.42:154][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.05.28-23.51.42:154][  0]LogTargetPlatformManager:   SF_METAL
+[2022.05.28-23.51.42:154][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.05.28-23.51.42:154][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.05.28-23.51.42:154][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.05.28-23.51.42:154][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.05.28-23.51.42:154][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.05.28-23.51.42:154][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.05.28-23.51.42:154][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.05.28-23.51.42:154][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.05.28-23.51.42:154][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.05.28-23.51.42:154][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.05.28-23.51.42:154][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.05.28-23.51.42:154][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.05.28-23.51.42:154][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.05.28-23.51.42:154][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.05.28-23.51.42:159][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.05.28-23.51.42:159][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.05.28-23.51.42:159][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.05.28-23.51.42:159][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.05.28-23.51.42:159][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.05.28-23.51.42:159][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.05.28-23.51.42:159][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.05.28-23.51.42:159][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.28-23.51.42:159][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.05.28-23.51.42:160][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.28-23.51.42:160][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.05.28-23.51.42:161][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.28-23.51.42:163][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.28-23.51.42:163][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.05.28-23.51.42:163][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.28-23.51.42:163][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.05.28-23.51.42:183][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1091 MiB)
+[2022.05.28-23.51.42:183][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.28-23.51.42:183][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.05.28-23.51.42:193][  0]LogDerivedDataCache: Speed tests for C:/Users/bhome/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.05.28-23.51.42:193][  0]LogDerivedDataCache: Display: Performance to C:/Users/bhome/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1769.82MBs, RandomWriteSpeed=102.03MBs. Assigned SpeedClass 'Local'
+[2022.05.28-23.51.42:194][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bhome/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.28-23.51.42:194][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.28-23.51.42:194][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.05.28-23.51.42:199][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.05.28-23.51.42:199][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.05.28-23.51.42:199][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Intermediate/Shaders/WorkingDirectory/22760/).
+[2022.05.28-23.51.42:199][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bhome/AppData/Local/Temp/UnrealShaderWorkingDir/36C8C4064632ACAAF2B317AE6B198D96/'.
+[2022.05.28-23.51.42:199][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.28-23.51.42:199][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.05.28-23.51.43:390][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.28-23.51.43:390][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.28-23.51.43:440][  0]LogAssetRegistry: FAssetRegistry took 0.0112 seconds to start up
+[2022.05.28-23.51.43:445][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.05.28-23.51.43:625][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.05.28-23.51.43:626][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.05.28-23.51.43:832][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.28-23.51.43:832][  0]LogDeviceProfileManager: Active device profile: [000008CA48AC6740][000008CA3D7A0000 50] WindowsEditor
+[2022.05.28-23.51.43:832][  0]LogDeviceProfileManager: Profiles: [000008CA48AC6900][000008CA3D7A5000 50] Windows, [000008CA48AC6740][000008CA3D7A0000 50] WindowsEditor, [000008CA48AC4440][000008CA3D747800 50] WindowsServer, [000008CA48AC4600][000008CA3D6DC800 50] WindowsClient, [000008CA48AC3F00][000008CA3D7A2800 50] IOS, [000008CA48AC5CC0][000008CA2E23A000 50] iPadAir2, [000008CA48AC78C0][000008CA48D62800 50] IPadPro, [000008CA48AC7C40][000008CA48D60000 50] iPadAir3, [000008CA48AC7540][000008CA48D67800 50] iPadAir4, [000008CA48AC3640][000008CA48D6A000 50] iPadMini4, [000008CA48AC7380][000008CA48D6C800 50] iPadMini5, [000008CA48AC3800][000008CA4207C800 50] iPadMini6, [000008CA48ACA480][000008CA48DC5000 50] iPhone6S, [000008CA48ACA800][000008CA48DC2800 50] iPhone7, [000008CA48ACAB80][000008CA48DC0000 50] iPodTouch7, [000008CA48AC9140][000008CA48DCA000 50] iPhone6SPlus, [000008CA48AC4B40][000008CA48DCC800 50] iPhone7Plus, [000008CA48AC7000][000008CA48D65000 50] iPhoneSE, [000008CA48AC8A40][000008CA48DD0000 50] iPhone8, [000008CA48AC6200][000008CA48DD5000 50] iPhone8Plus, [000008CA48AC6E40][000008CA48DD7800 50] iPhoneX, [000008CA48ACA640][000008CA48DDA000 50] iPhoneXS, [000008CA48AC63C0][000008CA48DDC800 50] iPhoneXSMax, [000008CA48AC8C00][000008CA48DC7800 50] iPhoneXR, [000008CA48AC3B80][000008CA48DE0000 50] iPhone11, [000008CA48AC8880][000008CA48DE5000 50] iPhone11Pro, [000008CA48AC1880][000008CA48DE7800 50] iPhone11ProMax, [000008CA48AC9840][000008CA48DEA000 50] iPhoneSE2, [000008CA48AC2F40][000008CA48DEC800 50] iPhone12Mini, [000008CA48AC8F80][000008CA48DD2800 50] iPhone12, [000008CA48AC40C0][000008CA48DF0000 50] iPhone12Pro, [000008CA48AC5080][000008CA48DF5000 50] iPhone12ProMax, [000008CA48AC3480][000008CA48DF7800 50] iPhone13Mini, [000008CA48ACA100][000008CA48DFA000 50] iPhone13, [000008CA48AC7A80][000008CA48DFC800 50] iPhone13Pro, [000008CA48AC86C0][000008CA48DE2800 50] iPhone13ProMax, [000008CA48AC7FC0][000008CA48E00000 50] iPadPro105, [000008CA48AC5940][000008CA48E05000 50] iPadPro129, [000008CA48AC55C0][000008CA48E07800 50] iPadPro97, [000008CA48AC3100][000008CA48E0A000 50] iPadPro2_129, [000008CA48AC94C0][000008CA48E0C800 50] iPad5, [000008CA48AC8180][000008CA48DF2800 50] iPad6, [000008CA48AC7E00][000008CA48E10000 50] iPad7, [000008CA48AC1F80][000008CA48E15000 50] iPad8, [000008CA48AC8DC0][000008CA48E17800 50] iPad9, [000008CA48AC39C0][000008CA48E1A000 50] iPadPro11, [000008CA48ACA9C0][000008CA48E1C800 50] iPadPro2_11, [000008CA48AC9BC0][000008CA48E02800 50] iPadPro3_11, [000008CA48AC9D80][000008CA48E20000 50] iPadPro3_129, [000008CA48AC4980][000008CA48E25000 50] iPadPro4_129, [000008CA48AC2A00][000008CA48E27800 50] iPadPro5_129, [000008CA48ACA2C0][000008CA48E2A000 50] AppleTV, [000008CA48AC9A00][000008CA48E2C800 50] AppleTV4K, [000008CA48AC5B00][000008CA48E12800 50] TVOS, [000008CA48ACC5C0][000008CA48E32800 50] Mac, [000008CA48ACC940][000008CA48E30000 50] MacEditor, [000008CA48ACC780][000008CA48E37800 50] MacClient, [000008CA48AC2840][000008CA48E3A000 50] MacServer, [000008CA48ACCCC0][000008CA48E22800 50] Linux, [000008CA48ACD040][000008CA48E3C800 50] LinuxEditor, [000008CA48AC2D80][000008CA48E40000 50] LinuxArm64Editor, [000008CA48ACC240][000008CA48E45000 50] LinuxArm64, [000008CA48ACB600][000008CA48E47800 50] LinuxClient, [000008CA48ACD200][000008CA48E4A000 50] LinuxArm64Client, [000008CA48ACAF00][000008CA48E4C800 50] LinuxServer, [000008CA48AC9300][000008CA48E35000 50] LinuxArm64Server, [000008CA48AC8340][000008CA48E50000 50] Android, [000008CA48ACC080][000008CA48E55000 50] Android_Preview_OpenGL, [000008CA48AC9F40][000008CA48E57800 50] Android_Preview_Vulkan, [000008CA48ACAD40][000008CA48E5A000 50] Android_Low, [000008CA48ACB0C0][000008CA48E5C800 50] Android_Mid, [000008CA48AC2140][000008CA48E42800 50] Android_High, [000008CA48AC32C0][000008CA48E60000 50] Android_Default, [000008CA48ACBD00][000008CA48E65000 50] Android_Adreno4xx, [000008CA48ACD740][000008CA48E67800 50] Android_Adreno5xx_Low, [000008CA48ACDAC0][000008CA48E6A000 50] Android_Adreno5xx, [000008CA48ACC400][000008CA48E6C800 50] Android_Adreno6xx, [000008CA48AC47C0][000008CA48E52800 50] Android_Adreno6xx_Vulkan, [000008CA48ACBEC0][000008CA48E70000 50] Android_Adreno7xx, [000008CA48ACB440][000008CA48E75000 50] Android_Adreno7xx_Vulkan, [000008CA48AC7700][000008CA48E77800 50] Android_Mali_T6xx, [000008CA48ACB280][000008CA48E7A000 50] Android_Mali_T7xx, [000008CA48AC3D40][000008CA48E7C800 50] Android_Mali_T8xx, [000008CA48ACCE80][000008CA48E62800 50] Android_Mali_G71, [000008CA48ACB7C0][000008CA48E80000 50] Android_Mali_G72, [000008CA48ACD900][000008CA48E85000 50] Android_Mali_G72_Vulkan, [000008CA48AC4D00][000008CA48E87800 50] Android_Mali_G76, [000008CA48ACDC80][000008CA48E8A000 50] Android_Mali_G76_Vulkan, [000008CA48ACD3C0][000008CA48E8C800 50] Android_Mali_G77, [000008CA48ACDE40][000008CA48E72800 50] Android_Mali_G77_Vulkan, [000008CA48AC4280][000008CA48E90000 50] Android_Mali_G78, [000008CA48ACE000][000008CA48E95000 50] Android_Mali_G78_Vulkan, [000008CA48AC8500][000008CA48E97800 50] Android_Mali_G710, [000008CA48AC5240][000008CA48E9A000 50] Android_Mali_G710_Vulkan, [000008CA48ACD580][000008CA48E9C800 50] Android_Xclipse_920, [000008CA48AC6580][000008CA48E82800 50] Android_Xclipse_920_Vulkan, [000008CA48ACEC40][000008CA48EA0000 50] Android_Vulkan_SM5, [000008CA48ACE540][000008CA48EA5000 50] Android_PowerVR_G6xxx, [000008CA48ACEE00][000008CA48EA7800 50] Android_PowerVR_GT7xxx, [000008CA48ACE1C0][000008CA48EAA000 50] Android_PowerVR_GE8xxx, [000008CA48ACBB40][000008CA48EAC800 50] Android_PowerVR_GM9xxx, [000008CA48ACCB00][000008CA48E92800 50] Android_PowerVR_GM9xxx_Vulkan, [000008CA48AC4EC0][000008CA48EB0000 50] Android_TegraK1, [000008CA48AC9680][000008CA48EB5000 50] Android_Unknown_Vulkan, [000008CA48ACF180][000008CA48EB7800 50] Oculus_Quest, [000008CA48ACB980][000008CA48EBA000 50] Oculus_Quest2, [000008CA48ED0000][000008CA48EBC800 50] HoloLens, 
+[2022.05.28-23.51.43:832][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.05.28-23.51.43:865][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.05.28-23.51.44:065][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.28-23.51.44:065][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.28-23.51.44:065][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.28-23.51.44:065][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.28-23.51.44:065][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.28-23.51.44:081][  0]LogNetVersion: AfterlifeManor 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 4026536419)
+[2022.05.28-23.51.44:200][  0]LogSlate: Border
+[2022.05.28-23.51.44:200][  0]LogSlate: BreadcrumbButton
+[2022.05.28-23.51.44:200][  0]LogSlate: Default
+[2022.05.28-23.51.44:201][  0]LogSlate: Icons.Save
+[2022.05.28-23.51.44:201][  0]LogSlate: Icons.Toolbar.Settings
+[2022.05.28-23.51.44:201][  0]LogSlate: ListView
+[2022.05.28-23.51.44:201][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.05.28-23.51.44:201][  0]LogSlate: SoftwareCursor_Grab
+[2022.05.28-23.51.44:201][  0]LogSlate: TableView.DarkRow
+[2022.05.28-23.51.44:201][  0]LogSlate: TableView.Row
+[2022.05.28-23.51.44:201][  0]LogSlate: TreeView
+[2022.05.28-23.51.44:346][  0]SourceControl: Source control is disabled
+[2022.05.28-23.51.44:377][  0]SourceControl: Source control is disabled
+[2022.05.28-23.51.44:377][  0]SourceControl: Source control is disabled
+[2022.05.28-23.51.44:486][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.05.28-23.51.44:486][  0]LogUObjectAllocator: 5584240 out of 0 bytes used by permanent object pool.
+[2022.05.28-23.51.44:486][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.28-23.51.44:854][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: DD0F90584B4FC3BD4958F3A73EB8812B | Instance: 37E833C04C0D0669AEE7A086C450D1A8 (THEODOPOLIS-22760).
+[2022.05.28-23.51.44:956][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.28-23.51.44:966][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.28-23.51.44:981][  0]LogPython: Using Python 3.9.7
+[2022.05.28-23.51.46:437][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.28-23.51.46:451][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.28-23.51.46:451][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.28-23.51.46:514][  0]SourceControl: Source control is disabled
+[2022.05.28-23.51.46:518][  0]LogOpenImageDenoise: OIDN starting up
+[2022.05.28-23.51.46:534][  0]SourceControl: Source control is disabled
+[2022.05.28-23.51.46:544][  0]SourceControl: Source control is disabled
+[2022.05.28-23.51.46:569][  0]LogUProjectInfo: Found projects:
+[2022.05.28-23.51.46:635][  0]LogCollectionManager: Loaded 0 collections in 0.001699 seconds
+[2022.05.28-23.51.46:730][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/Collections/' took 0.00s
+[2022.05.28-23.51.46:730][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Developers/bhome/Collections/' took 0.00s
+[2022.05.28-23.51.46:730][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Collections/' took 0.00s
+[2022.05.28-23.51.47:001][  0]LogEngine: Initializing Engine...
+[2022.05.28-23.51.47:017][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.05.28-23.51.47:023][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.28-23.51.47:262][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.28-23.51.47:262][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.28-23.51.47:275][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.28-23.51.47:308][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.28-23.51.47:308][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.28-23.51.47:336][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.28-23.51.47:337][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.28-23.51.47:337][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.05.28-23.51.47:337][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.28-23.51.47:337][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.28-23.51.47:337][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.28-23.51.47:337][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.28-23.51.47:337][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.28-23.51.47:337][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.28-23.51.47:337][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.28-23.51.47:337][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.28-23.51.47:337][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.28-23.51.47:337][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.28-23.51.47:337][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.28-23.51.47:338][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.28-23.51.47:338][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.28-23.51.47:369][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.28-23.51.47:449][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2022.05.28-23.51.47:449][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.28-23.51.47:451][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.28-23.51.47:451][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.28-23.51.47:451][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.05.28-23.51.47:451][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.28-23.51.47:452][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.28-23.51.47:452][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.05.28-23.51.47:452][  0]LogInit: FAudioDevice initialized.
+[2022.05.28-23.51.47:452][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.28-23.51.47:452][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.28-23.51.47:452][  0]LogInit: Texture streaming: Enabled
+[2022.05.28-23.51.47:491][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.0-19505902+++UE5+Release-5.0
+[2022.05.28-23.51.47:503][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.28-23.51.47:533][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.05.28-23.51.47:541][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.05.28-23.51.47:541][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.05.28-23.51.59:649][  0]LogLiveCoding: Display: First instance in process group "UE_AfterlifeManor_0xc01e162d", spawning console
+[2022.05.28-23.51.59:649][  0]LogLiveCoding: Display: Waiting for server
+[2022.05.28-23.51.59:649][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.05.28-23.51.59:681][  0]LogInit: Transaction tracking system initialized
+[2022.05.28-23.51.59:766][  0]BlueprintLog: New page: Editor Load
+[2022.05.28-23.51.59:984][  0]LocalizationService: Localization service is disabled
+[2022.05.28-23.52.00:039][  0]TimingProfiler: Initialize
+[2022.05.28-23.52.00:039][  0]TimingProfiler: OnSessionChanged
+[2022.05.28-23.52.00:039][  0]LoadingProfiler: Initialize
+[2022.05.28-23.52.00:039][  0]LoadingProfiler: OnSessionChanged
+[2022.05.28-23.52.00:039][  0]NetworkingProfiler: Initialize
+[2022.05.28-23.52.00:039][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.28-23.52.00:039][  0]MemoryProfiler: Initialize
+[2022.05.28-23.52.00:039][  0]MemoryProfiler: OnSessionChanged
+[2022.05.28-23.52.00:874][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/' took 0.01s
+[2022.05.28-23.52.00:874][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.05.28-23.52.00:977][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.28-23.52.00:979][  0]SourceControl: Source control is disabled
+[2022.05.28-23.52.00:979][  0]LogUnrealEdMisc: Loading editor; pre map load, took 22.052
+[2022.05.28-23.52.00:979][  0]Cmd: MAP LOAD FILE="../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Maps/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.28-23.52.00:980][  0]LightingResults: New page: Lighting Build
+[2022.05.28-23.52.00:987][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.28-23.52.00:987][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.28-23.52.00:987][  0]MapCheck: New page: Map Check
+[2022.05.28-23.52.00:987][  0]LightingResults: New page: Lighting Build
+[2022.05.28-23.52.00:991][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.28-23.52.00:993][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.28-23.52.03:478][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2022.05.28-23.52.03:478][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.28-23.52.03:479][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.28-23.52.03:479][  0]LogAIModule: Creating AISystem for world MainLevel
+[2022.05.28-23.52.03:683][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.28-23.52.03:726][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.28-23.52.03:726][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.28-23.52.03:727][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2022.05.28-23.52.03:727][  0]LogFileHelpers: Loading map 'MainLevel' took 2.748
+[2022.05.28-23.52.03:748][  0]LogUnrealEdMisc: Total Editor Startup Time, took 24.820
+[2022.05.28-23.52.03:748][  0]LogShaderCompilers: Display: ================================================
+[2022.05.28-23.52.03:748][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.28-23.52.03:748][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.28-23.52.03:748][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.28-23.52.03:748][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.05.28-23.52.03:748][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.28-23.52.03:748][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.05.28-23.52.03:748][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.05.28-23.52.03:748][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.05.28-23.52.03:748][  0]LogShaderCompilers: Display: ================================================
+[2022.05.28-23.52.05:130][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.28-23.52.05:198][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.28-23.52.05:203][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.28-23.52.05:210][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.28-23.52.05:546][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.05.28-23.52.05:547][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.28-23.52.05:566][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.05.28-23.52.05:566][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.28-23.52.05:571][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.05.28-23.52.05:572][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.28-23.52.05:578][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.05.28-23.52.05:578][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.28-23.52.05:590][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.05.28-23.52.05:590][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.28-23.52.05:595][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.05.28-23.52.05:595][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.28-23.52.05:601][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.05.28-23.52.05:601][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.28-23.52.05:610][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.05.28-23.52.05:610][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.28-23.52.05:614][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.05.28-23.52.05:614][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.28-23.52.05:620][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.05.28-23.52.05:620][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.28-23.52.07:290][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.28-23.52.07:326][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.28-23.52.07:331][  0]LogSlate: Took 0.003051 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.28-23.52.07:345][  0]LogSlate: Took 0.004901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.28-23.52.07:351][  0]LogSlate: Took 0.002767 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.28-23.52.16:529][  0]LogStall: Startup...
+[2022.05.28-23.52.16:530][  0]LogStall: Startup complete.
+[2022.05.28-23.52.16:542][  0]LogLoad: (Engine Initialization) Total time: 37.61 seconds
+[2022.05.28-23.52.16:542][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.28-23.52.16:612][  0]LogAssetRegistry: Asset discovery search completed in 33.1732 seconds
+[2022.05.28-23.52.16:643][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.05.28-23.52.16:684][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.28-23.52.18:545][190]LogSlate: Took 0.001433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.28-23.52.25:306][248]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.28-23.52.25:327][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.28-23.52.25:335][248]PIE: New page: PIE session: MainLevel (May 28, 2022, 9:52:25 AM)
+[2022.05.28-23.52.25:338][248]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.05.28-23.52.25:340][248]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.28-23.52.25:343][248]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2022.05.28-23.52.25:376][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033250s)
+[2022.05.28-23.52.25:376][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.033933s)
+[2022.05.28-23.52.25:376][248]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.28-23.52.25:378][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.28-23.52.25:378][248]LogAIModule: Creating AISystem for world MainLevel
+[2022.05.28-23.52.25:378][248]LogPlayLevel: PIE: World Init took: (0.001907s)
+[2022.05.28-23.52.25:388][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.05.28-23.52.25:392][248]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.28-23.52.25:392][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.28-23.52.25:392][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.28-23.52.25:392][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.28-23.52.25:392][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.28-23.52.25:392][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.28-23.52.25:392][248]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.28-23.52.25:392][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.28-23.52.25:392][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.28-23.52.25:392][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.28-23.52.25:392][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.28-23.52.25:392][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.28-23.52.25:394][248]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.28-23.52.25:414][248]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2022.05.28-23.52.25:415][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.28-23.52.25:415][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.28-23.52.25:415][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.28-23.52.25:421][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.05.28-23.52.25:421][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.05.28-23.52.25:423][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.05.28-23.52.25:423][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.05.28-23.52.25:423][248]LogInit: FAudioDevice initialized.
+[2022.05.28-23.52.25:423][248]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainLevel'.
+[2022.05.28-23.52.25:573][248]LogLoad: Game class is 'BP_GameMode_C'
+[2022.05.28-23.52.25:582][248]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.05.28-16.52.25
+[2022.05.28-23.52.25:585][248]LogWorld: Bringing up level for play took: 0.011613
+[2022.05.28-23.52.25:588][248]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2022.05.28-23.52.25:895][248]PIE: Server logged in
+[2022.05.28-23.52.25:897][248]PIE: Play in editor total start time 0.582 seconds.
+[2022.05.28-23.52.27:051][252]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.28-23.52.32:544][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.28-23.52.32:548][336]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2022.05.28-23.52.32:548][336]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.28-23.52.32:554][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.28-23.52.32:592][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.28-23.52.32:599][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.28-23.52.32:608][336]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.28-23.52.32:609][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.05.28-23.52.32:610][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.05.28-23.52.32:613][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.28-23.52.32:624][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.28-23.52.32:664][337]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.05.28-23.53.10:215][699]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bhome\Documents\maya\projects\BilliardRoom\Textures\GamingChandelier01\T_GamingChandelier01_Glass_Normal.png)
+[2022.05.28-23.53.10:800][699]LogTexture: Display: Building textures: /Game/Assets/Textures/BilliardRoom/GamingChandelier01/T_GamingChandelier01_Glass_Normal.T_GamingChandelier01_Glass_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.05.28-23.53.10:806][699]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bhome\Documents\maya\projects\BilliardRoom\Textures\GamingChandelier01\T_GamingChandelier01_Glass_Pack.png)
+[2022.05.28-23.53.11:123][699]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bhome\Documents\maya\projects\BilliardRoom\Textures\GamingChandelier01\T_GamingChandelier01_Glass_Color.png)
+[2022.05.28-23.53.11:470][699]LogTexture: Display: Building textures: /Game/Assets/Textures/BilliardRoom/GamingChandelier01/T_GamingChandelier01_Glass_Pack.T_GamingChandelier01_Glass_Pack (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.05.28-23.53.11:501][699]LogTexture: Display: Building textures: /Game/Assets/Textures/BilliardRoom/GamingChandelier01/T_GamingChandelier01_Glass_Color.T_GamingChandelier01_Glass_Color (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.05.28-23.53.28:865][969]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bhome\Documents\maya\projects\BilliardRoom\Textures\GamingChandelier01\T_GamingChandelier01_Metal_Pack.png)
+[2022.05.28-23.53.29:108][969]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bhome\Documents\maya\projects\BilliardRoom\Textures\GamingChandelier01\T_GamingChandelier01_Metal_Color.png)
+[2022.05.28-23.53.29:348][969]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bhome\Documents\maya\projects\BilliardRoom\Textures\GamingChandelier01\T_GamingChandelier01_Metal_Normal.png)
+[2022.05.28-23.53.29:839][969]LogTexture: Display: Building textures: /Game/Assets/Textures/BilliardRoom/GamingChandelier01/T_GamingChandelier01_Metal_Pack.T_GamingChandelier01_Metal_Pack (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.05.28-23.53.29:839][969]LogTexture: Display: Building textures: /Game/Assets/Textures/BilliardRoom/GamingChandelier01/T_GamingChandelier01_Metal_Color.T_GamingChandelier01_Metal_Color (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.05.28-23.53.30:244][972]LogTexture: Display: Building textures: /Game/Assets/Textures/BilliardRoom/GamingChandelier01/T_GamingChandelier01_Metal_Normal.T_GamingChandelier01_Metal_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.05.28-23.53.37:373][ 61]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Textures/BilliardRoom/GamingChandelier01/T_GamingChandelier01_Metal_Normal.T_GamingChandelier01_Metal_Normal
+[2022.05.28-23.53.37:411][ 61]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.05.28-23.53.41:523][132]LogSlate: Window 'T_GamingChandelier01_Metal_Normal' being destroyed
+[2022.05.28-23.53.41:543][132]LogSlate: Window 'T_GamingChandelier01_Metal_Normal' being destroyed
+[2022.05.28-23.53.47:682][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.28-23.53.51:029][278]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.28-23.53.51:110][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.28-23.53.56:438][332]LogDerivedDataCache: C:/Users/bhome/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.240 and deleted 4 file(s) with total size 0 MiB.
+[2022.05.28-23.54.08:514][404]LogContentBrowser: Deferred new asset file creation: M_Master_Glass_Stained_Inst
+[2022.05.28-23.54.08:524][404]LogContentBrowser: Creating deferred item: M_Master_Glass_Stained_Inst
+[2022.05.28-23.54.08:533][405]LogContentBrowser: Renaming the item being created (Deferred Item: M_Master_Glass_Stained_Inst).
+[2022.05.28-23.54.18:062][645]LogContentBrowser: Attempting asset rename: M_Master_Glass_Stained_Inst -> MI_GamingChandelier01_Glass
+[2022.05.28-23.54.18:101][645]LogContentBrowser: End creating deferred item M_Master_Glass_Stained_Inst
+[2022.05.28-23.54.23:258][710]LogContentBrowser: Deferred new asset file creation: M_Master_Painter_Inst
+[2022.05.28-23.54.23:273][710]LogContentBrowser: Creating deferred item: M_Master_Painter_Inst
+[2022.05.28-23.54.23:280][711]LogContentBrowser: Renaming the item being created (Deferred Item: M_Master_Painter_Inst).
+[2022.05.28-23.54.38:722][960]LogContentBrowser: Attempting asset rename: M_Master_Painter_Inst -> MI_GamingChandelier01_
+[2022.05.28-23.54.38:722][960]LogContentBrowser: End creating deferred item M_Master_Painter_Inst
+[2022.05.28-23.55.00:132][437]LogContentBrowser: Attempting asset rename: MI_GamingChandelier01_ -> MI_GamingChandelier01_Metal
+[2022.05.28-23.55.00:354][437]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.003981 seconds
+[2022.05.28-23.55.00:367][437]LogSavePackage: Moving output files for package: /Game/Assets/Materials/MasterMaterials/MI_GamingChandelier01_Metal
+[2022.05.28-23.55.00:367][437]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MI_GamingChandelier01_Metal39C4EEBB43647FB278F4BEB20F829863.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Materials/MasterMaterials/MI_GamingChandelier01_Metal.uasset'
+[2022.05.28-23.55.00:390][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.28-23.55.00:397][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.28-23.55.00:401][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.28-23.55.00:418][437]AssetCheck: New page: Asset Save: MI_GamingChandelier01_Metal
+[2022.05.28-23.55.00:425][437]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Materials/MasterMaterials/MI_GamingChandelier01_Metal.MI_GamingChandelier01_Metal
+[2022.05.28-23.55.03:802][553]LogContentBrowser: Deferred new asset file creation: M_Master_Subsurface_Inst
+[2022.05.28-23.55.03:807][553]LogContentBrowser: Creating deferred item: M_Master_Subsurface_Inst
+[2022.05.28-23.55.03:813][554]LogContentBrowser: Renaming the item being created (Deferred Item: M_Master_Subsurface_Inst).
+[2022.05.28-23.55.11:821][841]LogContentBrowser: Attempting asset rename: M_Master_Subsurface_Inst -> MI_GamingChandelier01_Globes
+[2022.05.28-23.55.11:821][841]LogContentBrowser: End creating deferred item M_Master_Subsurface_Inst
+[2022.05.28-23.55.17:151][ 19]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Materials/MasterMaterials/MI_GamingChandelier01_Glass.MI_GamingChandelier01_Glass
+[2022.05.28-23.55.17:195][ 19]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.28-23.55.17:633][ 19]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.28-23.55.25:168][312]LogMaterial: Display: Missing cached shadermap for MI_GamingChandelier01_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 478666F8676512FB0147533D7413FCE72523DBEF), compiling. 
+[2022.05.28-23.55.26:170][347]LogShaderCompilers: Display: ================================================
+[2022.05.28-23.55.26:170][347]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.28-23.55.26:170][347]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2022.05.28-23.55.26:170][347]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.05.28-23.55.26:170][347]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.05.28-23.55.26:170][347]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.28-23.55.26:170][347]LogShaderCompilers: Display: Shaders Compiled: 1
+[2022.05.28-23.55.26:170][347]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2022.05.28-23.55.26:170][347]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.06 s
+[2022.05.28-23.55.26:170][347]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 0.87 s
+[2022.05.28-23.55.26:170][347]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 0.93
+[2022.05.28-23.55.26:170][347]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.93 s
+[2022.05.28-23.55.26:170][347]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.05.28-23.55.26:170][347]LogShaderCompilers: Display: Average processing rate: 1.08 jobs/sec
+[2022.05.28-23.55.26:171][347]LogShaderCompilers: Display: Effective parallelization: 0.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.05.28-23.55.26:171][347]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.05.28-23.55.26:171][347]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2022.05.28-23.55.26:171][347]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.05.28-23.55.26:171][347]LogShaderCompilers: Display:                                            FDistortionMeshPS - 100.00% of total time (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2022.05.28-23.55.26:171][347]LogShaderCompilers: Display: ================================================
+[2022.05.28-23.55.26:333][352]LogMaterial: Display: Missing cached shadermap for MI_GamingChandelier01_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 022D1EE580B9A27C3F2E7C38F0F1BB035B37F835), compiling. 
+[2022.05.28-23.56.06:736][847]LogMaterial: Display: Missing cached shadermap for MI_GamingChandelier01_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 3060891F3677750F8161B13C535AAD001B61E723), compiling. 
+[2022.05.28-23.56.35:994][830]LogMaterial: Display: Missing cached shadermap for MI_GamingChandelier01_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 8B6AF604BD8397F7C807C1835A740A18DCC6D6A4), compiling. 
+[2022.05.28-23.56.38:869][935]LogMaterial: Display: Missing cached shadermap for MI_GamingChandelier01_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 79AC9D08F0A0BC4C1048F591944F5944BADD8F74), compiling. 
+[2022.05.28-23.56.42:826][ 68]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2022.05.28-23.57.06:235][928]LogMaterial: Display: Missing cached shadermap for MI_GamingChandelier01_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: E25D5C9CDA17D813646A5921CB8C7F2BBEE08F24), compiling. 
+[2022.05.28-23.57.39:397][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.28-23.57.40:333][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.28-23.57.40:337][201]LogSavePackage: Moving output files for package: /Game/Assets/Materials/MasterMaterials/MI_GamingChandelier01_Glass
+[2022.05.28-23.57.40:337][201]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MI_GamingChandelier01_GlassA06256854AACC1C7404AE28CC6F8F14A.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Materials/MasterMaterials/MI_GamingChandelier01_Glass.uasset'
+[2022.05.28-23.57.40:348][201]AssetCheck: New page: Asset Save: MI_GamingChandelier01_Glass
+[2022.05.28-23.57.40:348][201]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Materials/MasterMaterials/MI_GamingChandelier01_Glass.MI_GamingChandelier01_Glass
+[2022.05.28-23.57.41:768][258]LogSlate: Window 'MI_GamingChandelier01_Glass' being destroyed
+[2022.05.28-23.57.41:803][258]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.28-23.57.41:803][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.28-23.57.43:485][318]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Materials/MasterMaterials/MI_GamingChandelier01_Globes.MI_GamingChandelier01_Globes
+[2022.05.28-23.57.43:487][318]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.28-23.58.09:049][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.28-23.58.09:055][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.28-23.58.09:056][317]LogSavePackage: Moving output files for package: /Game/Assets/Materials/MasterMaterials/MI_GamingChandelier01_Globes
+[2022.05.28-23.58.09:056][317]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MI_GamingChandelier01_Globes0F08E75246F99B32B243BEB771F71229.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Materials/MasterMaterials/MI_GamingChandelier01_Globes.uasset'
+[2022.05.28-23.58.09:067][317]AssetCheck: New page: Asset Save: MI_GamingChandelier01_Globes
+[2022.05.28-23.58.09:067][317]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Materials/MasterMaterials/MI_GamingChandelier01_Globes.MI_GamingChandelier01_Globes
+[2022.05.28-23.58.11:007][395]LogSlate: Window 'MI_GamingChandelier01_Globes' being destroyed
+[2022.05.28-23.58.11:043][395]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.28-23.58.11:043][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.28-23.58.12:738][456]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Materials/MasterMaterials/MI_GamingChandelier01_Metal.MI_GamingChandelier01_Metal
+[2022.05.28-23.58.12:739][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.28-23.59.03:264][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.28-23.59.03:278][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.28-23.59.03:280][238]LogSavePackage: Moving output files for package: /Game/Assets/Materials/MasterMaterials/MI_GamingChandelier01_Metal
+[2022.05.28-23.59.03:281][238]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MI_GamingChandelier01_MetalBC311F3E4537204954C720B2FF8F37A9.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Materials/MasterMaterials/MI_GamingChandelier01_Metal.uasset'
+[2022.05.28-23.59.03:291][238]AssetCheck: New page: Asset Save: MI_GamingChandelier01_Metal
+[2022.05.28-23.59.03:291][238]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Materials/MasterMaterials/MI_GamingChandelier01_Metal.MI_GamingChandelier01_Metal
+[2022.05.28-23.59.04:381][283]LogSlate: Window 'MI_GamingChandelier01_Metal' being destroyed
+[2022.05.28-23.59.04:421][283]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.28-23.59.04:421][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.28-23.59.21:240][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.28-23.59.24:731][951]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.28-23.59.24:744][951]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Materials/MaterialInstances/BilliardRoom/GamingChandedlier01/MI_GamingChandelier01_Glass.MI_GamingChandelier01_Glass
+	Asset Type: MaterialInstanceConstant
+[2022.05.28-23.59.24:876][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.28-23.59.24:881][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.28-23.59.24:886][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.28-23.59.34:734][291]LogSavePackage: Moving output files for package: /Game/Assets/Materials/MaterialInstances/BilliardRoom/GamingChandedlier01/MI_GamingChandelier01_Glass
+[2022.05.28-23.59.34:735][291]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MI_GamingChandelier01_Glass2F2493134F861DA4C371339189DE9328.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Materials/MaterialInstances/BilliardRoom/GamingChandedlier01/MI_GamingChandelier01_Glass.uasset'
+[2022.05.28-23.59.34:736][291]LogSavePackage: Moving output files for package: /Game/Assets/Materials/MaterialInstances/BilliardRoom/GamingChandedlier01/MI_GamingChandelier01_Globes
+[2022.05.28-23.59.34:736][291]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MI_GamingChandelier01_GlobesEA466E8844AB5ADB39E3479B16FAEB81.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Materials/MaterialInstances/BilliardRoom/GamingChandedlier01/MI_GamingChandelier01_Globes.uasset'
+[2022.05.28-23.59.34:738][291]LogSavePackage: Moving output files for package: /Game/Assets/Materials/MaterialInstances/BilliardRoom/GamingChandedlier01/MI_GamingChandelier01_Metal
+[2022.05.28-23.59.34:738][291]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/MI_GamingChandelier01_MetalCDB0F8CA43E198331A8B8C85A6E114BB.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Materials/MaterialInstances/BilliardRoom/GamingChandedlier01/MI_GamingChandelier01_Metal.uasset'
+[2022.05.28-23.59.34:762][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.28-23.59.34:768][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.28-23.59.34:773][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.28-23.59.34:789][291]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.28-23.59.34:789][291]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Materials/MaterialInstances/BilliardRoom/GamingChandedlier01/MI_GamingChandelier01_Metal.MI_GamingChandelier01_Metal
+[2022.05.28-23.59.34:789][291]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Materials/MaterialInstances/BilliardRoom/GamingChandedlier01/MI_GamingChandelier01_Glass.MI_GamingChandelier01_Glass
+[2022.05.28-23.59.34:789][291]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Materials/MaterialInstances/BilliardRoom/GamingChandedlier01/MI_GamingChandelier01_Globes.MI_GamingChandelier01_Globes
+[2022.05.28-23.59.44:488][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.28-23.59.45:691][665]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: ================================================
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: Total job queries 26, among them cache hits 0 (0.00%)
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: Tracking 26 distinct input hashes that result in 18 distinct outputs (69.23%)
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: RAM used: 0.09 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: Shaders Compiled: 6
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: Jobs assigned 26, completed 26 (100.00%)
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: Average time worker was idle: 26.61 s
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.08 s
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: Job execution time: average 1.65 s, max 4.85 s
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: Job life time (pending + execution): average 1.69 s, max 4.91
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.73 s
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: Average processing rate: 1.25 jobs/sec
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: Effective parallelization: 1.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    6 times, average 3.74 sec, max 4.13 sec, min 3.50 sec)
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.79 sec, max 0.87 sec, min 0.76 sec)
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    6 times, average 0.61 sec, max 0.66 sec, min 0.56 sec)
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 67.27% of total time (compiled    6 times, average 3.74 sec, max 4.13 sec, min 3.50 sec)
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.17% of total time (compiled    6 times, average 0.79 sec, max 0.87 sec, min 0.76 sec)
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display:                                            FDistortionMeshVS - 10.97% of total time (compiled    6 times, average 0.61 sec, max 0.66 sec, min 0.56 sec)
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display:                                            FDistortionMeshPS - 4.69% of total time (compiled    6 times, average 0.26 sec, max 0.30 sec, min 0.23 sec)
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display:                                             FDebugViewModePS - 1.48% of total time (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2022.05.28-23.59.45:698][665]LogShaderCompilers: Display: ================================================
+[2022.05.28-23.59.45:711][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.28-23.59.45:716][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.28-23.59.45:721][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.29-00.00.09:807][713]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/bhome/Documents/maya/projects/BilliardRoom/Finished Meshes/GEO_FL1_GamingChandelier.fbx)
+[2022.05.29-00.00.09:863][713]LogFbx: Loading FBX Scene from ../../../../../../Users/bhome/Documents/maya/projects/BilliardRoom/Finished Meshes/GEO_FL1_GamingChandelier.fbx
+[2022.05.29-00.00.09:888][713]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.29-00.00.13:647][713]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.29-00.00.13:691][713]LogMaterial: Display: Missing cached shadermap for GamingChandellier_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 0FE3B311C59FAFD5E8FCC6FA471FB44BBC9455D0), compiling. 
+[2022.05.29-00.00.13:697][713]LogFbx: Display: Triangulating static mesh GamingChandelier_Glass
+[2022.05.29-00.00.13:737][713]LogStaticMesh: Display: Building static mesh GEO_FL1_GamingChandelier_GamingChandelier_Glass...
+[2022.05.29-00.00.13:761][713]LogStaticMesh: Adjacency [0.00s], tris: 1464, UVs 2
+[2022.05.29-00.00.13:766][713]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2022.05.29-00.00.13:767][713]LogStaticMesh: Leaves [0.00s]
+[2022.05.29-00.00.13:767][713]LogStaticMesh: Num clusters 12. Error 0.0000, 0.0000, 0.0000
+[2022.05.29-00.00.13:801][713]LogStaticMesh: Num clusters 6. Error 0.2171, 0.2171, 0.2171
+[2022.05.29-00.00.13:817][713]LogStaticMesh: Num clusters 3. Error 0.5745, 0.5745, 0.5745
+[2022.05.29-00.00.13:822][713]LogStaticMesh: Num clusters 2. Error 0.9570, 0.9570, 0.9570
+[2022.05.29-00.00.13:827][713]LogStaticMesh: Num clusters 1. Error 2.8406, 2.8406, 2.8406
+[2022.05.29-00.00.13:827][713]LogStaticMesh: Reduce [0.06s]
+[2022.05.29-00.00.13:837][713]LogStaticMesh: Fallback 0/1 [0.01s], num tris: 255
+[2022.05.29-00.00.13:839][713]LogStaticMesh: ConstrainClusters:
+[2022.05.29-00.00.13:839][713]LogStaticMesh:   Input: 24 Clusters, 2974 Triangles and 2674 Vertices
+[2022.05.29-00.00.13:839][713]LogStaticMesh:   Output without splits: 24 Clusters, 2974 Triangles and 2676 Vertices
+[2022.05.29-00.00.13:839][713]LogStaticMesh:   Output with splits: 24 Clusters, 2974 Triangles and 2676 Vertices
+[2022.05.29-00.00.13:839][713]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 24, Slow Path Clusters: 0, 1 Material: 24, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.29-00.00.13:840][713]LogStaticMesh: WritePages:
+[2022.05.29-00.00.13:840][713]LogStaticMesh:   Root: GPU size: 31324 bytes. 1 Pages. 31324.000 bytes per page (95.593% utilization).
+[2022.05.29-00.00.13:840][713]LogStaticMesh:   Streaming: GPU size: 11992 bytes. 1 Pages. 11992.000 bytes per page (9.149% utilization).
+[2022.05.29-00.00.13:840][713]LogStaticMesh:   Page data disk size: 35036 bytes. Fixup data size: 240 bytes.
+[2022.05.29-00.00.13:840][713]LogStaticMesh:   Total GPU size: 43316 bytes, Total disk size: 35276 bytes.
+[2022.05.29-00.00.13:840][713]LogStaticMesh: Encode [0.00s]
+[2022.05.29-00.00.13:840][713]LogStaticMesh: Imposter [0.00s]
+[2022.05.29-00.00.13:840][713]LogStaticMesh: Nanite build [0.07s]
+
+[2022.05.29-00.00.13:848][713]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Glass.GEO_FL1_GamingChandelier_GamingChandelier_Glass
+[2022.05.29-00.00.13:884][713]LogMaterial: Display: Missing cached shadermap for GamingChandellier_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: B343C1270E7EF700B22B829055A9C3BBE3CEDDC0), compiling. 
+[2022.05.29-00.00.13:888][713]LogFbx: Display: Triangulating static mesh GamingChandelier_Metal
+[2022.05.29-00.00.14:508][713]LogStaticMesh: Display: Building static mesh GEO_FL1_GamingChandelier_GamingChandelier_Metal...
+[2022.05.29-00.00.14:792][713]LogStaticMesh: Adjacency [0.00s], tris: 31550, UVs 2
+[2022.05.29-00.00.14:840][713]LogStaticMesh: Clustering [0.05s]. Ratio: 1.012146
+[2022.05.29-00.00.14:841][713]LogStaticMesh: Leaves [0.00s]
+[2022.05.29-00.00.14:841][713]LogStaticMesh: Num clusters 250. Error 0.0000, 0.0000, 0.0000
+[2022.05.29-00.00.14:946][713]LogStaticMesh: Num clusters 127. Error 0.0692, 0.2803, 1.0463
+[2022.05.29-00.00.15:033][713]LogStaticMesh: Num clusters 64. Error 0.2504, 0.7563, 2.2738
+[2022.05.29-00.00.15:092][713]LogStaticMesh: Num clusters 33. Error 0.8805, 1.4750, 2.2738
+[2022.05.29-00.00.15:129][713]LogStaticMesh: Num clusters 17. Error 2.2738, 2.2738, 2.2738
+[2022.05.29-00.00.15:160][713]LogStaticMesh: Num clusters 9. Error 2.6519, 2.6519, 2.6519
+[2022.05.29-00.00.15:177][713]LogStaticMesh: Num clusters 5. Error 3.9203, 3.9203, 3.9203
+[2022.05.29-00.00.15:185][713]LogStaticMesh: Num clusters 3. Error 4.8119, 4.8119, 4.8119
+[2022.05.29-00.00.15:189][713]LogStaticMesh: Num clusters 2. Error 5.4852, 5.4852, 5.4852
+[2022.05.29-00.00.15:192][713]LogStaticMesh: Num clusters 1. Error 7.3984, 7.3984, 7.3984
+[2022.05.29-00.00.15:192][713]LogStaticMesh: Reduce [0.35s]
+[2022.05.29-00.00.15:354][713]LogStaticMesh: Fallback 0/1 [0.16s], num tris: 3963
+[2022.05.29-00.00.15:365][713]LogStaticMesh: ConstrainClusters:
+[2022.05.29-00.00.15:365][713]LogStaticMesh:   Input: 511 Clusters, 64421 Triangles and 56914 Vertices
+[2022.05.29-00.00.15:365][713]LogStaticMesh:   Output without splits: 511 Clusters, 64421 Triangles and 57580 Vertices
+[2022.05.29-00.00.15:365][713]LogStaticMesh:   Output with splits: 539 Clusters, 64421 Triangles and 57594 Vertices
+[2022.05.29-00.00.15:366][713]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 539, Slow Path Clusters: 0, 1 Material: 539, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.29-00.00.15:377][713]LogStaticMesh: WritePages:
+[2022.05.29-00.00.15:377][713]LogStaticMesh:   Root: GPU size: 32004 bytes. 1 Pages. 32004.000 bytes per page (97.668% utilization).
+[2022.05.29-00.00.15:377][713]LogStaticMesh:   Streaming: GPU size: 821104 bytes. 7 Pages. 117300.570 bytes per page (89.493% utilization).
+[2022.05.29-00.00.15:377][713]LogStaticMesh:   Page data disk size: 741456 bytes. Fixup data size: 3344 bytes.
+[2022.05.29-00.00.15:377][713]LogStaticMesh:   Total GPU size: 853108 bytes, Total disk size: 744800 bytes.
+[2022.05.29-00.00.15:377][713]LogStaticMesh: Encode [0.02s]
+[2022.05.29-00.00.15:377][713]LogStaticMesh: Imposter [0.00s]
+[2022.05.29-00.00.15:377][713]LogStaticMesh: Nanite build [0.54s]
+
+[2022.05.29-00.00.15:388][713]LogStaticMesh: Built static mesh [0.88s] /Game/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Metal.GEO_FL1_GamingChandelier_GamingChandelier_Metal
+[2022.05.29-00.00.15:418][713]LogMaterial: Display: Missing cached shadermap for GamingChandelier_Globes in PCD3D_SM5, Default, SM5 (DDC key hash: 2F5CB208526D0E93C0AF7187A858A4401ED72466), compiling. 
+[2022.05.29-00.00.15:424][713]LogFbx: Display: Triangulating static mesh GamingChandelier_Globes
+[2022.05.29-00.00.15:444][713]LogStaticMesh: Display: Building static mesh GEO_FL1_GamingChandelier_GamingChandelier_Globes...
+[2022.05.29-00.00.15:451][713]LogStaticMesh: Adjacency [0.00s], tris: 816, UVs 2
+[2022.05.29-00.00.15:454][713]LogStaticMesh: Clustering [0.00s]. Ratio: 1.714286
+[2022.05.29-00.00.15:454][713]LogStaticMesh: Leaves [0.00s]
+[2022.05.29-00.00.15:454][713]LogStaticMesh: Num clusters 12. Error 0.0000, 0.0000, 0.0000
+[2022.05.29-00.00.15:468][713]LogStaticMesh: Num clusters 4. Error 0.3157, 0.3157, 0.3157
+[2022.05.29-00.00.15:478][713]LogStaticMesh: Num clusters 2. Error 0.7631, 0.7631, 0.7631
+[2022.05.29-00.00.15:482][713]LogStaticMesh: Num clusters 1. Error 2.3677, 2.3677, 2.3677
+[2022.05.29-00.00.15:482][713]LogStaticMesh: Reduce [0.03s]
+[2022.05.29-00.00.15:500][713]LogStaticMesh: Fallback 0/1 [0.02s], num tris: 368
+[2022.05.29-00.00.15:500][713]LogStaticMesh: ConstrainClusters:
+[2022.05.29-00.00.15:500][713]LogStaticMesh:   Input: 19 Clusters, 1697 Triangles and 1337 Vertices
+[2022.05.29-00.00.15:500][713]LogStaticMesh:   Output without splits: 19 Clusters, 1697 Triangles and 1343 Vertices
+[2022.05.29-00.00.15:500][713]LogStaticMesh:   Output with splits: 19 Clusters, 1697 Triangles and 1343 Vertices
+[2022.05.29-00.00.15:500][713]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 19, Slow Path Clusters: 0, 1 Material: 19, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.29-00.00.15:501][713]LogStaticMesh: WritePages:
+[2022.05.29-00.00.15:501][713]LogStaticMesh:   Root: GPU size: 22616 bytes. 1 Pages. 22616.000 bytes per page (69.019% utilization).
+[2022.05.29-00.00.15:501][713]LogStaticMesh:   Streaming: 0 bytes.
+[2022.05.29-00.00.15:501][713]LogStaticMesh:   Page data disk size: 18260 bytes. Fixup data size: 72 bytes.
+[2022.05.29-00.00.15:501][713]LogStaticMesh:   Total GPU size: 22616 bytes, Total disk size: 18332 bytes.
+[2022.05.29-00.00.15:501][713]LogStaticMesh: Encode [0.00s]
+[2022.05.29-00.00.15:501][713]LogStaticMesh: Imposter [0.00s]
+[2022.05.29-00.00.15:501][713]LogStaticMesh: Nanite build [0.05s]
+
+[2022.05.29-00.00.15:504][713]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Globes.GEO_FL1_GamingChandelier_GamingChandelier_Globes
+[2022.05.29-00.00.15:533][713]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.05.29-00.00.15:607][713]LogMaterial: Display: Material /Game/Assets/Meshes/BilliardRoom/GamingChandellier_Glass.GamingChandellier_Glass needed to have new flag set bUsedWithNanite !
+[2022.05.29-00.00.15:611][713]LogMaterial: Display: Missing cached shadermap for GamingChandellier_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 867CBC55B55225FE70199EC4A77A03A4AB62FF69), compiling. 
+[2022.05.29-00.00.18:260][734]LogSlate: Window 'Message Log' being destroyed
+[2022.05.29-00.00.18:402][734]LogSlate: Window 'Message Log' being destroyed
+[2022.05.29-00.00.21:253][759]LogMaterial: Display: Material /Game/Assets/Meshes/BilliardRoom/GamingChandelier_Globes.GamingChandelier_Globes needed to have new flag set bUsedWithNanite !
+[2022.05.29-00.00.21:302][759]LogMaterial: Display: Missing cached shadermap for GamingChandelier_Globes in PCD3D_SM5, Default, SM5 (DDC key hash: 28AA4BDA529CB51045176478B8CB5AA6A590D736), compiling. 
+[2022.05.29-00.00.27:596][877]LogMaterial: Display: Material /Game/Assets/Meshes/BilliardRoom/GamingChandellier_Metal.GamingChandellier_Metal needed to have new flag set bUsedWithNanite !
+[2022.05.29-00.00.27:688][877]LogMaterial: Display: Missing cached shadermap for GamingChandellier_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 0AB2CCB27420ED7139B56FE75C488C928928D6CF), compiling. 
+[2022.05.29-00.00.36:427][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.05.29-00.00.37:549][187]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.29-00.00.37:560][187]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Meshes/BilliardRoom/GamingChandellier_Glass.GamingChandellier_Glass
+	Asset Type: Material
+[2022.05.29-00.00.37:686][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.29-00.00.37:692][187]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.00.37:692][187]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.00.37:692][187]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.00.37:692][187]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.00.37:781][189]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.00.38:936][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.29-00.00.39:947][231]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.29-00.00.39:958][231]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Meshes/BilliardRoom/GamingChandellier_Metal.GamingChandellier_Metal
+	Asset Type: Material
+[2022.05.29-00.00.40:093][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.29-00.00.40:095][231]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.40:095][231]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.40:136][233]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.41:101][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.29-00.00.42:010][267]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.29-00.00.42:022][267]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Meshes/BilliardRoom/GamingChandelier_Globes.GamingChandelier_Globes
+	Asset Type: Material
+[2022.05.29-00.00.42:149][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.29-00.00.42:151][267]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.42:151][267]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.42:192][269]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.42:250][272]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.42:277][273]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.42:337][274]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.42:498][275]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.42:659][276]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.42:818][277]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.42:978][278]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.43:138][279]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.43:664][281]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.43:672][282]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.43:680][283]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.43:805][284]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.43:965][285]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.44:126][286]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.44:286][287]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.44:446][288]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.44:606][289]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.44:767][290]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.44:927][291]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.45:087][292]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.45:247][293]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.45:569][295]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.45:730][296]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.45:754][297]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.45:914][298]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.46:082][299]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.46:242][300]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.46:435][301]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.46:595][302]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.46:755][303]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.46:916][304]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.47:078][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.47:238][306]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.47:542][308]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.47:720][309]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.47:743][310]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.47:906][311]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.48:068][312]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.48:231][313]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.48:393][314]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.48:555][315]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.48:717][316]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.48:879][317]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.49:043][318]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.49:206][319]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.49:530][321]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.49:693][322]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.49:718][323]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.49:880][324]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.50:041][325]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.00.50:208][326]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.50:371][327]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.50:534][328]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.50:694][329]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:175][332]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:200][333]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:227][334]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:257][335]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:284][336]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:409][338]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:456][339]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:500][340]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:531][341]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:575][342]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:606][343]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:654][344]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:693][345]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:742][346]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:773][347]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:815][348]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:863][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:911][350]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:959][351]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.51:991][352]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:034][353]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:065][354]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:113][355]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:152][356]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:201][357]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:233][358]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:274][359]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:322][360]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:371][361]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:420][362]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:451][363]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:494][364]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:526][365]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:575][366]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:614][367]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:664][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:696][369]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:739][370]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:789][371]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:838][372]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:887][373]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:919][374]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:963][375]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.52:995][376]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:043][377]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:082][378]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:131][379]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:162][380]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:204][381]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:252][382]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:351][384]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:383][385]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:422][386]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:454][387]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:503][388]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:542][389]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:590][390]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:621][391]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:664][392]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:711][393]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:758][394]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:807][395]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:839][396]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:882][397]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:913][398]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.53:961][399]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:000][400]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:049][401]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:081][402]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:123][403]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:170][404]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:218][405]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:267][406]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:299][407]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:343][408]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:374][409]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:421][410]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:460][411]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:509][412]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:540][413]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:582][414]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:629][415]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:677][416]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:726][417]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:757][418]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:801][419]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:832][420]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:880][421]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:919][422]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:967][423]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.54:999][424]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:041][425]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:088][426]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:137][427]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:186][428]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:218][429]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:261][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:292][431]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:380][433]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:428][434]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:454][435]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:496][436]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:544][437]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:592][438]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:640][439]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:672][440]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:715][441]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:747][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:795][443]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:834][444]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:883][445]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:915][446]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.55:956][447]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.56:004][448]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.56:052][449]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.56:103][450]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.56:134][451]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.56:178][452]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.56:210][453]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.56:258][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.56:297][455]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.56:346][456]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.56:412][457]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.56:454][458]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.56:526][459]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.56:586][460]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.56:792][464]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.56:859][465]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Metal.GEO_FL1_GamingChandelier_GamingChandelier_Metal
+[2022.05.29-00.00.56:991][465]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.29-00.00.57:017][465]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.57:065][465]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.57:354][465]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.00.57:405][466]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead.
+[2022.05.29-00.01.10:818][733]LogStaticMesh: Warning: Invalid material [MI_GamingChandelier01_Glass] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2022.05.29-00.01.10:842][733]LogStaticMesh: Warning: Invalid material [MI_GamingChandelier01_Glass] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2022.05.29-00.01.10:843][733]LogStaticMesh: Warning: Invalid material [MI_GamingChandelier01_Glass] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2022.05.29-00.01.10:843][733]LogStaticMesh: Warning: Invalid material [MI_GamingChandelier01_Glass] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2022.05.29-00.01.10:913][735]LogStaticMesh: Warning: Invalid material [MI_GamingChandelier01_Glass] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2022.05.29-00.01.10:914][735]LogStaticMesh: Warning: Invalid material [MI_GamingChandelier01_Glass] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2022.05.29-00.01.10:923][736]LogStaticMesh: Warning: Invalid material [MI_GamingChandelier01_Glass] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Metal] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2022.05.29-00.01.24:191][998]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Metal
+[2022.05.29-00.01.24:191][998]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_FL1_GamingChandelier_GamingCE96EEA4B41A5500C78CBAB89513B0775.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Metal.uasset'
+[2022.05.29-00.01.24:202][998]AssetCheck: New page: Asset Save: GEO_FL1_GamingChandelier_GamingChandelier_Metal
+[2022.05.29-00.01.24:202][998]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Metal.GEO_FL1_GamingChandelier_GamingChandelier_Metal
+[2022.05.29-00.01.25:179][ 21]LogSlate: Window 'GEO_FL1_GamingChandelier_GamingChandelier_Metal' being destroyed
+[2022.05.29-00.01.25:264][ 21]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-00.01.25:264][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.29-00.01.26:263][ 48]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.01.26:408][ 49]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.01.26:420][ 50]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.26:427][ 51]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.26:467][ 52]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.29:846][132]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.29:889][133]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.29:939][134]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.29:971][135]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:014][136]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:046][137]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:093][138]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:134][139]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:182][140]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:213][141]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:255][142]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:303][143]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:350][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:400][145]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:430][146]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:475][147]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:507][148]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:555][149]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:594][150]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:642][151]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:674][152]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:716][153]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:762][154]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:810][155]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:859][156]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:891][157]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:934][158]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.30:965][159]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.31:014][160]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.31:053][161]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.31:101][162]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.31:133][163]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.31:175][164]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.31:345][168]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.31:383][169]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Globes.GEO_FL1_GamingChandelier_GamingChandelier_Globes
+[2022.05.29-00.01.31:500][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.29-00.01.31:512][169]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.31:530][169]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.31:737][169]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.31:737][169]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.31:778][170]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.31:791][171]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.31:813][172]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.31:847][173]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.31:909][174]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.31:952][175]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.32:005][176]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Globes] - forcing default material instead.
+[2022.05.29-00.01.37:216][275]LogMaterial: Display: Material /Game/Assets/Materials/MasterMaterials/M_Master_Subsurface.M_Master_Subsurface needed to have new flag set bUsedWithNanite !
+[2022.05.29-00.01.37:221][275]LogMaterial: Display: Missing cached shadermap for M_Master_Subsurface in PCD3D_SM5, Default, SM5 (DDC key hash: 10DB0751C9944CA23C77F4D4976EDEAD34811EA6), compiling. 
+[2022.05.29-00.01.37:296][275]LogMaterial: Display: Missing cached shadermap for MI_HangingLamp01_Ceramic in PCD3D_SM5, Default, SM5 (DDC key hash: C9E689B32097CEBF429A6567BD4A7240F3DF6C1D), compiling. 
+[2022.05.29-00.01.37:302][275]LogMaterial: Display: Missing cached shadermap for MI_FloorLamp01_Shade in PCD3D_SM5, Default, SM5 (DDC key hash: 360B6D9697358B81E4BC6E5300250A9601888ACC), compiling. 
+[2022.05.29-00.01.46:785][428]LogStaticMesh: Display: Building static mesh GEO_FL1_GamingChandelier_GamingChandelier_Globes...
+[2022.05.29-00.01.46:785][428]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Globes.GEO_FL1_GamingChandelier_GamingChandelier_Globes
+[2022.05.29-00.01.46:966][433]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.01.46:966][433]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.01.47:898][449]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.01.47:898][449]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.01.50:819][503]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Globes
+[2022.05.29-00.01.50:819][503]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_FL1_GamingChandelier_GamingC889E6D234F2CEE650A345E9CBC69A8E1.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Globes.uasset'
+[2022.05.29-00.01.50:828][503]AssetCheck: New page: Asset Save: GEO_FL1_GamingChandelier_GamingChandelier_Globes
+[2022.05.29-00.01.50:828][503]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Globes.GEO_FL1_GamingChandelier_GamingChandelier_Globes
+[2022.05.29-00.01.59:345][681]LogSlate: Window 'GEO_FL1_GamingChandelier_GamingChandelier_Globes' being destroyed
+[2022.05.29-00.01.59:424][681]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-00.01.59:424][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.29-00.02.00:439][709]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.00:494][710]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.00:535][711]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.00:660][712]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.00:669][713]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.00:677][714]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.00:710][715]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.00:760][716]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.00:808][717]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.00:859][718]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.00:891][719]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.00:935][720]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.00:968][721]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.01:015][722]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.01:055][723]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.01:104][724]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.01:136][725]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.01:455][733]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.01:488][734]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Glass.GEO_FL1_GamingChandelier_GamingChandelier_Glass
+[2022.05.29-00.02.01:601][734]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.29-00.02.01:612][734]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.01:630][734]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.01:840][734]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.01:840][734]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.01:880][735]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.01:894][736]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.01:917][737]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.01:955][738]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.02:015][739]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.02:075][740]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.02:135][741]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead.
+[2022.05.29-00.02.06:755][831]LogStaticMesh: Warning: Invalid material [MI_GamingChandelier01_Glass] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2022.05.29-00.02.06:779][831]LogStaticMesh: Warning: Invalid material [MI_GamingChandelier01_Glass] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2022.05.29-00.02.06:779][831]LogStaticMesh: Warning: Invalid material [MI_GamingChandelier01_Glass] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2022.05.29-00.02.06:779][831]LogStaticMesh: Warning: Invalid material [MI_GamingChandelier01_Glass] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2022.05.29-00.02.06:780][831]LogStaticMesh: Warning: Invalid material [MI_GamingChandelier01_Glass] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2022.05.29-00.02.06:780][831]LogStaticMesh: Warning: Invalid material [MI_GamingChandelier01_Glass] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2022.05.29-00.02.06:836][832]LogStaticMesh: Warning: Invalid material [MI_GamingChandelier01_Glass] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2022.05.29-00.02.06:854][833]LogStaticMesh: Warning: Invalid material [MI_GamingChandelier01_Glass] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2022.05.29-00.02.06:854][833]LogStaticMesh: Warning: Invalid material [MI_GamingChandelier01_Glass] used on Nanite static mesh [GEO_FL1_GamingChandelier_GamingChandelier_Glass] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2022.05.29-00.02.11:503][926]LogStaticMesh: Display: Building static mesh GEO_FL1_GamingChandelier_GamingChandelier_Glass...
+[2022.05.29-00.02.11:503][926]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Glass.GEO_FL1_GamingChandelier_GamingChandelier_Glass
+[2022.05.29-00.02.11:503][926]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Glass) ...
+[2022.05.29-00.02.42:174][557]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Glass
+[2022.05.29-00.02.42:174][557]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_FL1_GamingChandelier_GamingC3D012B3642603E0CECF23F851BA75624.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Glass.uasset'
+[2022.05.29-00.02.42:186][557]AssetCheck: New page: Asset Save: GEO_FL1_GamingChandelier_GamingChandelier_Glass
+[2022.05.29-00.02.42:186][557]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_FL1_GamingChandelier_GamingChandelier_Glass.GEO_FL1_GamingChandelier_GamingChandelier_Glass
+[2022.05.29-00.02.45:540][627]LogSlate: Window 'GEO_FL1_GamingChandelier_GamingChandelier_Glass' being destroyed
+[2022.05.29-00.02.45:601][627]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-00.02.45:601][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.29-00.02.52:917][763]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.29-00.02.52:917][763]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.29-00.03.01:207][ 81]LogContentBrowser: Attempting asset rename: GEO_FL1_GamingChandelier_GamingChandelier_Glass -> GEO_GamingChandelier01_Glas
+[2022.05.29-00.03.01:310][ 81]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Glas
+[2022.05.29-00.03.01:311][ 81]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_GamingChandelier01_GlasF9D59AA74F7ECB81A4ECB5977B8A7FC3.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Glas.uasset'
+[2022.05.29-00.03.01:328][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.29-00.03.01:336][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.29-00.03.01:341][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.29-00.03.01:345][ 81]AssetCheck: New page: Asset Save: GEO_GamingChandelier01_Glas
+[2022.05.29-00.03.01:345][ 81]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Glas.GEO_GamingChandelier01_Glas
+[2022.05.29-00.03.03:667][126]LogContentBrowser: Attempting asset rename: GEO_GamingChandelier01_Glas -> GEO_GamingChandelier01_Glas
+[2022.05.29-00.03.09:251][209]LogContentBrowser: Attempting asset rename: GEO_GamingChandelier01_Glas -> GEO_GamingChandelier01_Glass
+[2022.05.29-00.03.09:625][209]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Glass
+[2022.05.29-00.03.09:625][209]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_GamingChandelier01_Glass7D4762274F95439595668F926655CF37.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Glass.uasset'
+[2022.05.29-00.03.09:640][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.29-00.03.09:646][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.29-00.03.09:651][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.29-00.03.09:654][209]AssetCheck: New page: Asset Save: GEO_GamingChandelier01_Glass
+[2022.05.29-00.03.09:654][209]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Glass.GEO_GamingChandelier01_Glass
+[2022.05.29-00.03.24:013][589]LogContentBrowser: Attempting asset rename: GEO_FL1_GamingChandelier_GamingChandelier_Globes -> GEO_GamingChandelier01_Globes
+[2022.05.29-00.03.24:124][589]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Globes
+[2022.05.29-00.03.24:124][589]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_GamingChandelier01_Globes96B3D42448C1632160E35785B03C687D.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Globes.uasset'
+[2022.05.29-00.03.24:141][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.29-00.03.24:147][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.29-00.03.24:152][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.29-00.03.24:156][589]AssetCheck: New page: Asset Save: GEO_GamingChandelier01_Globes
+[2022.05.29-00.03.24:156][589]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Globes.GEO_GamingChandelier01_Globes
+[2022.05.29-00.03.34:362][915]LogContentBrowser: Attempting asset rename: GEO_FL1_GamingChandelier_GamingChandelier_Metal -> GEO_GamingChandelier01_Metal
+[2022.05.29-00.03.34:521][915]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Metal
+[2022.05.29-00.03.34:521][915]LogSavePackage: Moving '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Saved/GEO_GamingChandelier01_Metal59E634F346449F8C44AEF886A1E27928.tmp' to '../../../../../../Users/bhome/Documents/Unreal_Projects/AfterlifeManor/Content/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Metal.uasset'
+[2022.05.29-00.03.34:537][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.29-00.03.34:543][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.05.29-00.03.34:550][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.29-00.03.34:553][915]AssetCheck: New page: Asset Save: GEO_GamingChandelier01_Metal
+[2022.05.29-00.03.34:553][915]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Metal.GEO_GamingChandelier01_Metal
+[2022.05.29-00.03.41:834][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Glass.GEO_GamingChandelier01_Glass
+[2022.05.29-00.03.41:835][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Glass.GEO_GamingChandelier01_Glass
+[2022.05.29-00.03.41:837][ 17]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Glass.GEO_GamingChandelier01_Glass as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_390
+[2022.05.29-00.03.41:837][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Globes.GEO_GamingChandelier01_Globes
+[2022.05.29-00.03.41:837][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Globes.GEO_GamingChandelier01_Globes
+[2022.05.29-00.03.41:838][ 17]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Globes.GEO_GamingChandelier01_Globes as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_392
+[2022.05.29-00.03.41:838][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Metal.GEO_GamingChandelier01_Metal
+[2022.05.29-00.03.41:838][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Metal.GEO_GamingChandelier01_Metal
+[2022.05.29-00.03.41:838][ 17]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Metal.GEO_GamingChandelier01_Metal as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_396
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: ================================================
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: Total job queries 159, among them cache hits 0 (0.00%)
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: Tracking 156 distinct input hashes that result in 81 distinct outputs (51.92%)
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: RAM used: 0.32 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: Shaders Compiled: 129
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: Jobs assigned 159, completed 156 (98.11%)
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: Average time worker was idle: 40.26 s
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: Time job spent in pending queue: average 0.78 s, longest 7.97 s
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: Job execution time: average 3.63 s, max 8.70 s
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: Job life time (pending + execution): average 4.43 s, max 9.59
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 48.75 s
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: Jobs were issued in 83 batches (only local compilation was used), average 1.92 jobs/batch
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: Average processing rate: 3.20 jobs/sec
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: Effective parallelization: 3.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   14 times, average 2.30 sec, max 4.13 sec, min 0.69 sec)
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    2 times, average 1.82 sec, max 2.46 sec, min 1.18 sec)
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    2 times, average 1.76 sec, max 2.60 sec, min 0.91 sec)
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 1.74 sec, max 2.45 sec, min 1.04 sec)
+[2022.05.29-00.03.44:252][111]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyLQ (compiled    2 times, average 1.57 sec, max 2.35 sec, min 0.80 sec)
+[2022.05.29-00.03.44:253][111]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.05.29-00.03.44:253][111]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 17.75% of total time (compiled   14 times, average 2.30 sec, max 4.13 sec, min 0.69 sec)
+[2022.05.29-00.03.44:253][111]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.91% of total time (compiled    9 times, average 1.39 sec, max 2.46 sec, min 0.51 sec)
+[2022.05.29-00.03.44:253][111]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.67% of total time (compiled    8 times, average 1.51 sec, max 2.31 sec, min 0.93 sec)
+[2022.05.29-00.03.44:253][111]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.37% of total time (compiled    8 times, average 1.44 sec, max 2.41 sec, min 0.86 sec)
+[2022.05.29-00.03.44:253][111]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.95% of total time (compiled    8 times, average 1.35 sec, max 2.13 sec, min 0.78 sec)
+[2022.05.29-00.03.44:253][111]LogShaderCompilers: Display: ================================================
+[2022.05.29-00.03.45:049][137]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Glass.GEO_GamingChandelier01_Glass
+[2022.05.29-00.03.45:049][137]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Glass.GEO_GamingChandelier01_Glass
+[2022.05.29-00.03.45:051][137]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Glass.GEO_GamingChandelier01_Glass as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_400
+[2022.05.29-00.03.45:107][137]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Globes.GEO_GamingChandelier01_Globes
+[2022.05.29-00.03.45:107][137]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Globes.GEO_GamingChandelier01_Globes
+[2022.05.29-00.03.45:107][137]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Globes.GEO_GamingChandelier01_Globes as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_401
+[2022.05.29-00.03.45:123][137]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Metal.GEO_GamingChandelier01_Metal
+[2022.05.29-00.03.45:123][137]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Metal.GEO_GamingChandelier01_Metal
+[2022.05.29-00.03.45:123][137]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/BilliardRoom/GEO_GamingChandelier01_Metal.GEO_GamingChandelier01_Metal as actor: StaticMeshActor /Game/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_402
+[2022.05.29-00.04.00:001][634]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.29-00.04.11:675][ 48]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.29-00.04.17:156][283]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.29-00.04.23:262][525]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.29-00.04.23:270][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.29-00.04.23:271][525]PIE: New page: PIE session: MainLevel (May 28, 2022, 10:04:23 AM)
+[2022.05.29-00.04.23:271][525]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2022.05.29-00.04.23:302][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030339s)
+[2022.05.29-00.04.23:302][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.030411s)
+[2022.05.29-00.04.23:302][525]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.29-00.04.23:302][525]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.29-00.04.23:303][525]LogAIModule: Creating AISystem for world MainLevel
+[2022.05.29-00.04.23:303][525]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2022.05.29-00.04.23:310][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.29-00.04.23:311][525]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.29-00.04.23:312][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.29-00.04.23:312][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.29-00.04.23:312][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.29-00.04.23:312][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.29-00.04.23:312][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.29-00.04.23:312][525]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.29-00.04.23:312][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.29-00.04.23:312][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.29-00.04.23:312][525]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.29-00.04.23:312][525]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.29-00.04.23:312][525]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.29-00.04.23:314][525]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.29-00.04.23:335][525]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2022.05.29-00.04.23:335][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.29-00.04.23:335][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.29-00.04.23:335][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.29-00.04.23:336][525]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.05.29-00.04.23:336][525]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.05.29-00.04.23:337][525]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.05.29-00.04.23:337][525]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.05.29-00.04.23:337][525]LogInit: FAudioDevice initialized.
+[2022.05.29-00.04.23:337][525]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainLevel'.
+[2022.05.29-00.04.23:352][525]LogLoad: Game class is 'BP_GameMode_C'
+[2022.05.29-00.04.23:362][525]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.05.28-17.04.23
+[2022.05.29-00.04.23:362][525]LogWorld: Bringing up level for play took: 0.009694
+[2022.05.29-00.04.23:364][525]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.05.29-00.04.23:367][525]PIE: Server logged in
+[2022.05.29-00.04.23:368][525]PIE: Play in editor total start time 0.097 seconds.
+[2022.05.29-00.04.45:634][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.29-00.04.45:634][183]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2022.05.29-00.04.45:634][183]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-00.04.45:635][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.29-00.04.45:664][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.29-00.04.45:667][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.29-00.04.45:673][183]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.29-00.04.45:673][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.05.29-00.04.45:674][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.05.29-00.04.45:677][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.29-00.04.45:681][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.29-00.04.45:722][184]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.05.29-00.04.52:638][358]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Materials/MaterialInstances/BilliardRoom/GamingChandedlier01/MI_GamingChandelier01_Glass.MI_GamingChandelier01_Glass
+[2022.05.29-00.04.52:639][358]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
